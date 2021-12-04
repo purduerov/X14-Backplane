@@ -1883,81 +1883,6 @@ Diode with low voltage drop</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="te 3.5m mm horiz 4 pin">
-<packages>
-<package name="TE_284512-4" urn="urn:adsk.eagle:footprint:24291284/1">
-<wire x1="-7.5" y1="-1.2" x2="-7.5" y2="8" width="0.127" layer="51"/>
-<wire x1="-7.5" y1="8" x2="7.5" y2="8" width="0.127" layer="51"/>
-<wire x1="7.5" y1="8" x2="7.5" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="7.5" y1="-1.2" x2="-7.5" y2="-1.2" width="0.127" layer="51"/>
-<wire x1="-7.5" y1="-1.2" x2="-7.5" y2="8" width="0.127" layer="21"/>
-<wire x1="7.5" y1="8" x2="7.5" y2="-1.2" width="0.127" layer="21"/>
-<wire x1="-7.5" y1="8" x2="7.5" y2="8" width="0.127" layer="21"/>
-<wire x1="6.57" y1="-1.2" x2="7.5" y2="-1.2" width="0.127" layer="21"/>
-<wire x1="-7.5" y1="-1.2" x2="-6.57" y2="-1.2" width="0.127" layer="21"/>
-<wire x1="-7.75" y1="8.25" x2="7.75" y2="8.25" width="0.05" layer="39"/>
-<wire x1="7.75" y1="-1.45" x2="-7.75" y2="-1.45" width="0.05" layer="39"/>
-<wire x1="-7.75" y1="-1.45" x2="-7.75" y2="8.25" width="0.05" layer="39"/>
-<wire x1="7.75" y1="8.25" x2="7.75" y2="-1.45" width="0.05" layer="39"/>
-<text x="-9.7" y="10.2" size="1.27" layer="25">&gt;NAME</text>
-<text x="-9.7" y="-4.65" size="1.27" layer="27">&gt;VALUE</text>
-<circle x="-5.25" y="9.8" radius="0.1" width="0.2" layer="21"/>
-<circle x="-5.25" y="9.8" radius="0.1" width="0.2" layer="51"/>
-<pad name="1" x="-5.25" y="0" drill="1.2" shape="square"/>
-<pad name="2" x="-1.75" y="0" drill="1.2"/>
-<pad name="3" x="1.75" y="0" drill="1.2"/>
-<pad name="4" x="5.25" y="0" drill="1.2"/>
-</package>
-</packages>
-<packages3d>
-<package3d name="TE_284512-4" urn="urn:adsk.eagle:package:24291286/2" type="model">
-<packageinstances>
-<packageinstance name="TE_284512-4"/>
-</packageinstances>
-</package3d>
-</packages3d>
-<symbols>
-<symbol name="4-PIN-CONN">
-<wire x1="-5.08" y1="-5.08" x2="-5.08" y2="7.62" width="0.254" layer="94"/>
-<wire x1="-5.08" y1="7.62" x2="2.54" y2="7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="7.62" x2="2.54" y2="-5.08" width="0.254" layer="94"/>
-<wire x1="2.54" y1="-5.08" x2="-5.08" y2="-5.08" width="0.254" layer="94"/>
-<text x="-5.58" y="7.62" size="1.778" layer="95">&gt;NAME</text>
-<text x="-5.08" y="-7.62" size="1.778" layer="96">&gt;VALUE</text>
-<pin name="1" x="-7.62" y="5.08" length="short" direction="pas" swaplevel="1"/>
-<pin name="2" x="-7.62" y="2.54" length="short" direction="pas" swaplevel="1"/>
-<pin name="3" x="-7.62" y="0" length="short" direction="pas" swaplevel="1"/>
-<pin name="4" x="-7.62" y="-2.54" length="short" direction="pas" swaplevel="1"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="284512-4" prefix="J" uservalue="yes">
-<gates>
-<gate name="G$1" symbol="4-PIN-CONN" x="0" y="0"/>
-</gates>
-<devices>
-<device name="" package="TE_284512-4">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:24291286/2"/>
-</package3dinstances>
-<technologies>
-<technology name="">
-<attribute name="MANUFACTURER" value="TE"/>
-<attribute name="PARTREV" value="R"/>
-<attribute name="STANDARD" value="Manufacturer Recommendations"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="OTHER, Push button - FSM2JMTR">
 <description>Generated from &lt;b&gt;CAN-Test-Board.sch&lt;/b&gt;&lt;p&gt;
 by exp-lbrs.ulp</description>
@@ -2247,7 +2172,6 @@ by exp-lbrs.ulp</description>
 <part name="R1" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="10k"/>
 <part name="R5" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="1KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="4.7k"/>
 <part name="DIST_TO_BACKPLANE" library="Samtec MPPT Hermaphoditic 10 pos - MPPT-10-01-01-L-RA-SD" deviceset="MPPT-10-01-01-L-RA-SD" device="" package3d_urn="urn:adsk.eagle:package:25115828/2"/>
-<part name="J6" library="te 3.5m mm horiz 4 pin" deviceset="284512-4" device="" package3d_urn="urn:adsk.eagle:package:24291286/2"/>
 <part name="H1" library="Mounting Holes" deviceset="6-32-HOLE" device="" package3d_urn="urn:adsk.eagle:package:24384748/2"/>
 <part name="H2" library="Mounting Holes" deviceset="6-32-HOLE" device="" package3d_urn="urn:adsk.eagle:package:24384748/2"/>
 <part name="U$5" library="Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP"/>
@@ -2272,7 +2196,6 @@ by exp-lbrs.ulp</description>
 <sheets>
 <sheet>
 <plain>
-<text x="149.86" y="-46.99" size="1.778" layer="91">CAN to Logic</text>
 <text x="149.86" y="-24.13" size="1.778" layer="91">CAN Debug</text>
 <text x="86.36" y="99.06" size="1.778" layer="91">Programmer</text>
 <text x="80.88" y="157.74" size="1.778" layer="91">QUAD ESC CONNECTION</text>
@@ -2320,10 +2243,6 @@ by exp-lbrs.ulp</description>
 </instance>
 <instance part="DIST_TO_BACKPLANE" gate="G$1" x="34.29" y="35.56" smashed="yes" rot="R180">
 <attribute name="NAME" x="39.37" y="55.372" size="1.778" layer="95" font="vector" rot="R180"/>
-</instance>
-<instance part="J6" gate="G$1" x="165.1" y="-57.15" smashed="yes">
-<attribute name="NAME" x="159.52" y="-49.53" size="1.778" layer="95"/>
-<attribute name="VALUE" x="160.02" y="-64.77" size="1.778" layer="96"/>
 </instance>
 <instance part="H1" gate="G$1" x="7.62" y="7.62" smashed="yes">
 <attribute name="NAME" x="7.62" y="10.16" size="1.016" layer="95" align="bottom-center"/>
@@ -2521,11 +2440,6 @@ by exp-lbrs.ulp</description>
 <pinref part="U$3" gate="G$1" pin="5"/>
 </segment>
 <segment>
-<wire x1="157.48" y1="-54.61" x2="142.24" y2="-54.61" width="0.1524" layer="91"/>
-<label x="142.24" y="-54.61" size="1.778" layer="95"/>
-<pinref part="J6" gate="G$1" pin="2"/>
-</segment>
-<segment>
 <pinref part="R7" gate="&gt;NAME" pin="2"/>
 <wire x1="196.85" y1="-29.21" x2="196.85" y2="-26.67" width="0.1524" layer="91"/>
 <wire x1="196.85" y1="-26.67" x2="212.09" y2="-26.67" width="0.1524" layer="91"/>
@@ -2554,11 +2468,6 @@ by exp-lbrs.ulp</description>
 <pinref part="U$3" gate="G$1" pin="7"/>
 </segment>
 <segment>
-<wire x1="157.48" y1="-57.15" x2="142.24" y2="-57.15" width="0.1524" layer="91"/>
-<label x="142.24" y="-57.15" size="1.778" layer="95"/>
-<pinref part="J6" gate="G$1" pin="3"/>
-</segment>
-<segment>
 <pinref part="R8" gate="&gt;NAME" pin="1"/>
 <wire x1="196.85" y1="-54.61" x2="196.85" y2="-57.15" width="0.1524" layer="91"/>
 <wire x1="196.85" y1="-57.15" x2="212.09" y2="-57.15" width="0.1524" layer="91"/>
@@ -2566,11 +2475,6 @@ by exp-lbrs.ulp</description>
 </segment>
 </net>
 <net name="5V" class="0">
-<segment>
-<wire x1="157.48" y1="-52.07" x2="142.24" y2="-52.07" width="0.1524" layer="91"/>
-<pinref part="J6" gate="G$1" pin="1"/>
-<label x="142.24" y="-52.07" size="1.778" layer="95"/>
-</segment>
 <segment>
 <pinref part="U$4" gate="G$1" pin="5V"/>
 <wire x1="62.96" y1="41.78" x2="57.16" y2="41.78" width="0.1524" layer="91"/>
@@ -3118,11 +3022,6 @@ by exp-lbrs.ulp</description>
 <wire x1="157.48" y1="-29.21" x2="142.24" y2="-29.21" width="0.1524" layer="91"/>
 <pinref part="J2" gate="G$1" pin="1"/>
 <label x="142.24" y="-29.21" size="1.778" layer="95"/>
-</segment>
-<segment>
-<wire x1="157.48" y1="-59.69" x2="142.24" y2="-59.69" width="0.1524" layer="91"/>
-<pinref part="J6" gate="G$1" pin="4"/>
-<label x="142.24" y="-59.69" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C4" gate="G$1" pin="2"/>
