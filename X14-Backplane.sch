@@ -3225,6 +3225,11 @@ by exp-lbrs.ulp</description>
 <pinref part="U$9" gate="G$1" pin="24"/>
 <label x="100.33" y="-43.688" size="1.778" layer="95" rot="R180"/>
 </segment>
+<segment>
+<wire x1="33.02" y1="-83.82" x2="25.4" y2="-83.82" width="0.1524" layer="91"/>
+<label x="22.86" y="-83.82" size="1.778" layer="95"/>
+<pinref part="U$10" gate="G$1" pin="1"/>
+</segment>
 </net>
 <net name="SOL2_1" class="0">
 <segment>
@@ -3403,6 +3408,16 @@ by exp-lbrs.ulp</description>
 <wire x1="62.96" y1="31.62" x2="57.16" y2="31.62" width="0.1524" layer="91"/>
 <label x="52.56" y="32.03" size="1.778" layer="95"/>
 </segment>
+<segment>
+<wire x1="33.02" y1="-86.36" x2="25.4" y2="-86.36" width="0.1524" layer="91"/>
+<label x="22.86" y="-86.36" size="1.778" layer="95"/>
+<pinref part="U$10" gate="G$1" pin="3"/>
+</segment>
+<segment>
+<wire x1="63.5" y1="-83.82" x2="73.66" y2="-83.82" width="0.1524" layer="91"/>
+<label x="68.58" y="-83.82" size="1.778" layer="95"/>
+<pinref part="U$10" gate="G$1" pin="2"/>
+</segment>
 </net>
 <net name="12L_GND" class="0">
 <segment>
@@ -3415,25 +3430,6 @@ by exp-lbrs.ulp</description>
 <wire x1="95.98" y1="26.54" x2="109.22" y2="26.54" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="26.54" x2="109.22" y2="26.67" width="0.1524" layer="91"/>
 <label x="104.14" y="26.67" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="GND" class="0">
-<segment>
-<wire x1="33.02" y1="-86.36" x2="25.4" y2="-86.36" width="0.1524" layer="91"/>
-<label x="22.86" y="-86.36" size="1.778" layer="95"/>
-<pinref part="U$10" gate="G$1" pin="3"/>
-</segment>
-<segment>
-<wire x1="63.5" y1="-83.82" x2="73.66" y2="-83.82" width="0.1524" layer="91"/>
-<label x="68.58" y="-83.82" size="1.778" layer="95"/>
-<pinref part="U$10" gate="G$1" pin="2"/>
-</segment>
-</net>
-<net name="+3V3" class="0">
-<segment>
-<wire x1="33.02" y1="-83.82" x2="25.4" y2="-83.82" width="0.1524" layer="91"/>
-<label x="22.86" y="-83.82" size="1.778" layer="95"/>
-<pinref part="U$10" gate="G$1" pin="1"/>
 </segment>
 </net>
 <net name="SWDIO" class="0">
