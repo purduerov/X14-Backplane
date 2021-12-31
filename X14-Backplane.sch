@@ -2478,6 +2478,96 @@ by exp-lbrs.ulp</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS">
+<description>&lt;Nichicon 330uF 50 V Aluminium Electrolytic Capacitor SMD, CM Series 2000h 10 (Dia.) x 10mm&lt;/b&gt;&lt;p&gt;
+&lt;author&gt;Created by SamacSys&lt;/author&gt;</description>
+<packages>
+<package name="CAPAE1030X1050N" urn="urn:adsk.eagle:footprint:24202088/1" locally_modified="yes">
+<description>&lt;b&gt;10X10&lt;/b&gt;&lt;br&gt;
+</description>
+<smd name="+" x="-4.2" y="0" dx="4.3" dy="2.15" layer="1"/>
+<smd name="-" x="4.2" y="0" dx="4.3" dy="2.15" layer="1"/>
+<text x="0.254" y="2.286" size="1.27" layer="25" align="center">&gt;NAME</text>
+<wire x1="5.15" y1="5.15" x2="-2.575" y2="5.15" width="0.1" layer="21"/>
+<wire x1="-2.575" y1="5.15" x2="-5.15" y2="2.575" width="0.1" layer="21"/>
+<wire x1="-5.15" y1="2.575" x2="-5.15" y2="-2.575" width="0.1" layer="21"/>
+<wire x1="-5.15" y1="-2.575" x2="-2.575" y2="-5.15" width="0.1" layer="21"/>
+<wire x1="-2.575" y1="-5.15" x2="5.15" y2="-5.15" width="0.1" layer="21"/>
+<wire x1="5.15" y1="-5.15" x2="5.15" y2="5.15" width="0.1" layer="21"/>
+<wire x1="-6.858" y1="1.524" x2="-5.334" y2="1.524" width="0.127" layer="39"/>
+<wire x1="-5.334" y1="1.524" x2="-5.334" y2="2.794" width="0.127" layer="39"/>
+<wire x1="-5.334" y1="2.794" x2="-2.54" y2="5.588" width="0.127" layer="39"/>
+<wire x1="-2.54" y1="5.588" x2="5.588" y2="5.588" width="0.127" layer="39"/>
+<wire x1="5.588" y1="5.588" x2="5.588" y2="1.524" width="0.127" layer="39"/>
+<wire x1="5.588" y1="1.524" x2="6.858" y2="1.524" width="0.127" layer="39"/>
+<wire x1="6.858" y1="1.524" x2="6.858" y2="-1.524" width="0.127" layer="39"/>
+<wire x1="6.858" y1="-1.524" x2="5.588" y2="-1.524" width="0.127" layer="39"/>
+<wire x1="5.588" y1="-1.524" x2="5.588" y2="-5.588" width="0.127" layer="39"/>
+<wire x1="5.588" y1="-5.588" x2="-2.54" y2="-5.588" width="0.127" layer="39"/>
+<wire x1="-2.54" y1="-5.588" x2="-5.588" y2="-2.54" width="0.127" layer="39"/>
+<wire x1="-5.588" y1="-2.54" x2="-5.588" y2="-1.524" width="0.127" layer="39"/>
+<wire x1="-5.588" y1="-1.524" x2="-6.858" y2="-1.524" width="0.127" layer="39"/>
+<wire x1="-6.858" y1="-1.524" x2="-6.858" y2="1.524" width="0.127" layer="39"/>
+<text x="0" y="-2.54" size="1.27" layer="27" align="center">&gt;VALUE</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="CAPAE1030X1050N" urn="urn:adsk.eagle:package:24202090/2" type="model">
+<description>&lt;b&gt;10X10&lt;/b&gt;&lt;br&gt;
+</description>
+<packageinstances>
+<packageinstance name="CAPAE1030X1050N"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="UCM1H331MNL1GS">
+<text x="1.27" y="1.27" size="1.778" layer="95" align="center-left">&gt;NAME</text>
+<pin name="+" x="0" y="2.54" visible="pad" length="short" rot="R270"/>
+<pin name="-" x="0" y="-4.445" visible="pad" length="short" rot="R90"/>
+<wire x1="-1.27" y1="0.508" x2="-1.27" y2="1.524" width="0.254" layer="94"/>
+<wire x1="-0.762" y1="1.016" x2="-1.778" y2="1.016" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-0.762" x2="0" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="0" y1="-0.762" x2="-2.54" y2="-0.762" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-2.54" x2="2.54" y2="-2.54" width="0.254" layer="94" curve="-67.380135"/>
+<wire x1="0" y1="0" x2="0" y2="-0.762" width="0.1524" layer="94"/>
+<text x="1.27" y="-3.81" size="1.778" layer="95" align="center-left">&gt;VALUE</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="UCM1H331MNL1GS" prefix="C" uservalue="yes">
+<description>&lt;b&gt;Nichicon 330uF 50 V Aluminium Electrolytic Capacitor SMD, CM Series 2000h 10 (Dia.) x 10mm&lt;/b&gt;&lt;p&gt;
+Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&gt; Datasheet &lt;/a&gt;</description>
+<gates>
+<gate name="G$1" symbol="UCM1H331MNL1GS" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="CAPAE1030X1050N">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:24202090/2"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="ARROW_PART_NUMBER" value="UCM1H331MNL1GS" constant="no"/>
+<attribute name="ARROW_PRICE-STOCK" value="https://www.arrow.com/en/products/ucm1h331mnl1gs/nichicon" constant="no"/>
+<attribute name="DESCRIPTION" value="Nichicon 330uF 50 V Aluminium Electrolytic Capacitor SMD, CM Series 2000h 10 (Dia.) x 10mm" constant="no"/>
+<attribute name="HEIGHT" value="10.5mm" constant="no"/>
+<attribute name="MANUFACTURER_NAME" value="Nichicon" constant="no"/>
+<attribute name="MANUFACTURER_PART_NUMBER" value="UCM1H331MNL1GS" constant="no"/>
+<attribute name="MOUSER_PART_NUMBER" value="647-UCM1H331MNL1GS" constant="no"/>
+<attribute name="MOUSER_PRICE-STOCK" value="https://www.mouser.co.uk/ProductDetail/Nichicon/UCM1H331MNL1GS?qs=DSgADHjnLTkTovFLdbC%252BNg%3D%3D" constant="no"/>
+<attribute name="VALUE" value="330uF" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2520,6 +2610,9 @@ by exp-lbrs.ulp</description>
 <part name="J8" library="Phoenix Contact PTSM 8 pin" deviceset="PXC-8-RA-1778683" device="" package3d_urn="urn:adsk.eagle:package:25224885/2"/>
 <part name="U$9" library="PI-SHIELD, Solenoid-Backplane" deviceset="7X_CONN" device=""/>
 <part name="U$10" library="CONN, DataConversion-Backplane Connector- SAMTEC CLT-107-01-F-D" deviceset="BACKPLANE-&gt;DATACONV" device=""/>
+<part name="C1" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
+<part name="C2" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
+<part name="C3" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 </parts>
 <sheets>
 <sheet>
@@ -2642,6 +2735,18 @@ by exp-lbrs.ulp</description>
 <instance part="U$9" gate="G$1" x="83.82" y="-39.37" smashed="yes"/>
 <instance part="U$10" gate="G$1" x="38.1" y="-83.82" smashed="yes">
 <attribute name="NAME" x="38.1" y="-78.74" size="2.54" layer="95"/>
+</instance>
+<instance part="C1" gate="G$1" x="224.79" y="96.52" smashed="yes">
+<attribute name="NAME" x="226.06" y="97.79" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="226.06" y="92.71" size="1.778" layer="95" align="center-left"/>
+</instance>
+<instance part="C2" gate="G$1" x="238.76" y="96.52" smashed="yes">
+<attribute name="NAME" x="240.03" y="97.79" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="240.03" y="92.71" size="1.778" layer="95" align="center-left"/>
+</instance>
+<instance part="C3" gate="G$1" x="251.46" y="96.52" smashed="yes">
+<attribute name="NAME" x="252.73" y="97.79" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="252.73" y="92.71" size="1.778" layer="95" align="center-left"/>
 </instance>
 </instances>
 <busses>
@@ -2868,6 +2973,21 @@ by exp-lbrs.ulp</description>
 <wire x1="233.68" y1="144.78" x2="233.68" y2="153.67" width="0.1524" layer="91"/>
 <label x="232.41" y="153.67" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="C1" gate="G$1" pin="+"/>
+<wire x1="224.79" y1="99.06" x2="224.79" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="224.79" y1="101.6" x2="238.76" y2="101.6" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="+"/>
+<wire x1="238.76" y1="101.6" x2="238.76" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="238.76" y1="101.6" x2="246.38" y2="101.6" width="0.1524" layer="91"/>
+<junction x="238.76" y="101.6"/>
+<pinref part="C3" gate="G$1" pin="+"/>
+<wire x1="246.38" y1="101.6" x2="251.46" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="251.46" y1="101.6" x2="251.46" y2="99.06" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="101.6" x2="246.38" y2="105.41" width="0.1524" layer="91"/>
+<junction x="246.38" y="101.6"/>
+<label x="246.38" y="105.41" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="SWCLK_IN" class="0">
 <segment>
@@ -3068,6 +3188,21 @@ by exp-lbrs.ulp</description>
 <pinref part="U$7" gate="G$1" pin="GND"/>
 <wire x1="233.68" y1="119.38" x2="233.68" y2="109.22" width="0.1524" layer="91"/>
 <label x="233.68" y="109.22" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="C1" gate="G$1" pin="-"/>
+<wire x1="224.79" y1="92.075" x2="224.79" y2="90.17" width="0.1524" layer="91"/>
+<wire x1="224.79" y1="90.17" x2="238.76" y2="90.17" width="0.1524" layer="91"/>
+<pinref part="C2" gate="G$1" pin="-"/>
+<wire x1="238.76" y1="90.17" x2="238.76" y2="92.075" width="0.1524" layer="91"/>
+<wire x1="238.76" y1="90.17" x2="246.38" y2="90.17" width="0.1524" layer="91"/>
+<junction x="238.76" y="90.17"/>
+<pinref part="C3" gate="G$1" pin="-"/>
+<wire x1="246.38" y1="90.17" x2="251.46" y2="90.17" width="0.1524" layer="91"/>
+<wire x1="251.46" y1="90.17" x2="251.46" y2="92.075" width="0.1524" layer="91"/>
+<wire x1="246.38" y1="90.17" x2="246.38" y2="86.36" width="0.1524" layer="91"/>
+<junction x="246.38" y="90.17"/>
+<label x="246.38" y="86.36" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$3" class="0">
