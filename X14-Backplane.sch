@@ -2613,6 +2613,9 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 <part name="C1" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C2" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C3" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
+<part name="C5" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
+<part name="C6" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
+<part name="C7" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 </parts>
 <sheets>
 <sheet>
@@ -2629,6 +2632,7 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 <text x="72.67" y="-23.96" size="1.778" layer="91">PI Shield Connector</text>
 <text x="191.02" y="-19.88" size="1.778" layer="91">CAN io</text>
 <text x="34.57" y="-73.49" size="1.778" layer="91">DataConversion Connector</text>
+<text x="138.43" y="-99.06" size="2.54" layer="91">12V Capacitors</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes">
@@ -2736,17 +2740,29 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 <instance part="U$10" gate="G$1" x="38.1" y="-83.82" smashed="yes">
 <attribute name="NAME" x="38.1" y="-78.74" size="2.54" layer="95"/>
 </instance>
-<instance part="C1" gate="G$1" x="224.79" y="96.52" smashed="yes">
-<attribute name="NAME" x="226.06" y="97.79" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="226.06" y="92.71" size="1.778" layer="95" align="center-left"/>
+<instance part="C1" gate="G$1" x="138.43" y="-115.57" smashed="yes">
+<attribute name="NAME" x="139.7" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="139.7" y="-119.38" size="1.778" layer="95" align="center-left"/>
 </instance>
-<instance part="C2" gate="G$1" x="238.76" y="96.52" smashed="yes">
-<attribute name="NAME" x="240.03" y="97.79" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="240.03" y="92.71" size="1.778" layer="95" align="center-left"/>
+<instance part="C2" gate="G$1" x="152.4" y="-115.57" smashed="yes">
+<attribute name="NAME" x="153.67" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="153.67" y="-119.38" size="1.778" layer="95" align="center-left"/>
 </instance>
-<instance part="C3" gate="G$1" x="251.46" y="96.52" smashed="yes">
-<attribute name="NAME" x="252.73" y="97.79" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="252.73" y="92.71" size="1.778" layer="95" align="center-left"/>
+<instance part="C3" gate="G$1" x="165.1" y="-115.57" smashed="yes">
+<attribute name="NAME" x="166.37" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="166.37" y="-119.38" size="1.778" layer="95" align="center-left"/>
+</instance>
+<instance part="C5" gate="G$1" x="173.99" y="-115.57" smashed="yes">
+<attribute name="NAME" x="175.26" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="175.26" y="-119.38" size="1.778" layer="95" align="center-left"/>
+</instance>
+<instance part="C6" gate="G$1" x="187.96" y="-115.57" smashed="yes">
+<attribute name="NAME" x="189.23" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="189.23" y="-119.38" size="1.778" layer="95" align="center-left"/>
+</instance>
+<instance part="C7" gate="G$1" x="200.66" y="-115.57" smashed="yes">
+<attribute name="NAME" x="201.93" y="-114.3" size="1.778" layer="95" align="center-left"/>
+<attribute name="VALUE" x="201.93" y="-119.38" size="1.778" layer="95" align="center-left"/>
 </instance>
 </instances>
 <busses>
@@ -2975,18 +2991,33 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="+"/>
-<wire x1="224.79" y1="99.06" x2="224.79" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="224.79" y1="101.6" x2="238.76" y2="101.6" width="0.1524" layer="91"/>
+<wire x1="138.43" y1="-113.03" x2="138.43" y2="-110.49" width="0.1524" layer="91"/>
+<wire x1="138.43" y1="-110.49" x2="152.4" y2="-110.49" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="+"/>
-<wire x1="238.76" y1="101.6" x2="238.76" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="101.6" x2="246.38" y2="101.6" width="0.1524" layer="91"/>
-<junction x="238.76" y="101.6"/>
+<wire x1="152.4" y1="-110.49" x2="152.4" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="-110.49" x2="160.02" y2="-110.49" width="0.1524" layer="91"/>
+<junction x="152.4" y="-110.49"/>
 <pinref part="C3" gate="G$1" pin="+"/>
-<wire x1="246.38" y1="101.6" x2="251.46" y2="101.6" width="0.1524" layer="91"/>
-<wire x1="251.46" y1="101.6" x2="251.46" y2="99.06" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="101.6" x2="246.38" y2="105.41" width="0.1524" layer="91"/>
-<junction x="246.38" y="101.6"/>
-<label x="246.38" y="105.41" size="1.778" layer="95"/>
+<wire x1="160.02" y1="-110.49" x2="165.1" y2="-110.49" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="-110.49" x2="165.1" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="160.02" y1="-110.49" x2="160.02" y2="-106.68" width="0.1524" layer="91"/>
+<junction x="160.02" y="-110.49"/>
+<label x="160.02" y="-106.68" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="C5" gate="G$1" pin="+"/>
+<wire x1="173.99" y1="-113.03" x2="173.99" y2="-110.49" width="0.1524" layer="91"/>
+<wire x1="173.99" y1="-110.49" x2="187.96" y2="-110.49" width="0.1524" layer="91"/>
+<pinref part="C6" gate="G$1" pin="+"/>
+<wire x1="187.96" y1="-110.49" x2="187.96" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="-110.49" x2="195.58" y2="-110.49" width="0.1524" layer="91"/>
+<junction x="187.96" y="-110.49"/>
+<pinref part="C7" gate="G$1" pin="+"/>
+<wire x1="195.58" y1="-110.49" x2="200.66" y2="-110.49" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="-110.49" x2="200.66" y2="-113.03" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="-110.49" x2="195.58" y2="-106.68" width="0.1524" layer="91"/>
+<junction x="195.58" y="-110.49"/>
+<label x="195.58" y="-106.68" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SWCLK_IN" class="0">
@@ -3191,18 +3222,33 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="-"/>
-<wire x1="224.79" y1="92.075" x2="224.79" y2="90.17" width="0.1524" layer="91"/>
-<wire x1="224.79" y1="90.17" x2="238.76" y2="90.17" width="0.1524" layer="91"/>
+<wire x1="138.43" y1="-120.015" x2="138.43" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="138.43" y1="-121.92" x2="152.4" y2="-121.92" width="0.1524" layer="91"/>
 <pinref part="C2" gate="G$1" pin="-"/>
-<wire x1="238.76" y1="90.17" x2="238.76" y2="92.075" width="0.1524" layer="91"/>
-<wire x1="238.76" y1="90.17" x2="246.38" y2="90.17" width="0.1524" layer="91"/>
-<junction x="238.76" y="90.17"/>
+<wire x1="152.4" y1="-121.92" x2="152.4" y2="-120.015" width="0.1524" layer="91"/>
+<wire x1="152.4" y1="-121.92" x2="160.02" y2="-121.92" width="0.1524" layer="91"/>
+<junction x="152.4" y="-121.92"/>
 <pinref part="C3" gate="G$1" pin="-"/>
-<wire x1="246.38" y1="90.17" x2="251.46" y2="90.17" width="0.1524" layer="91"/>
-<wire x1="251.46" y1="90.17" x2="251.46" y2="92.075" width="0.1524" layer="91"/>
-<wire x1="246.38" y1="90.17" x2="246.38" y2="86.36" width="0.1524" layer="91"/>
-<junction x="246.38" y="90.17"/>
-<label x="246.38" y="86.36" size="1.778" layer="95"/>
+<wire x1="160.02" y1="-121.92" x2="165.1" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="165.1" y1="-121.92" x2="165.1" y2="-120.015" width="0.1524" layer="91"/>
+<wire x1="160.02" y1="-121.92" x2="160.02" y2="-125.73" width="0.1524" layer="91"/>
+<junction x="160.02" y="-121.92"/>
+<label x="160.02" y="-125.73" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="C5" gate="G$1" pin="-"/>
+<wire x1="173.99" y1="-120.015" x2="173.99" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="173.99" y1="-121.92" x2="187.96" y2="-121.92" width="0.1524" layer="91"/>
+<pinref part="C6" gate="G$1" pin="-"/>
+<wire x1="187.96" y1="-121.92" x2="187.96" y2="-120.015" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="-121.92" x2="195.58" y2="-121.92" width="0.1524" layer="91"/>
+<junction x="187.96" y="-121.92"/>
+<pinref part="C7" gate="G$1" pin="-"/>
+<wire x1="195.58" y1="-121.92" x2="200.66" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="200.66" y1="-121.92" x2="200.66" y2="-120.015" width="0.1524" layer="91"/>
+<wire x1="195.58" y1="-121.92" x2="195.58" y2="-125.73" width="0.1524" layer="91"/>
+<junction x="195.58" y="-121.92"/>
+<label x="195.58" y="-125.73" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$3" class="0">
