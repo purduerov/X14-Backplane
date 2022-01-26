@@ -923,163 +923,6 @@ Warning: This is the KIT version of the AXIAL-0.3 package. This package has a sm
 </deviceset>
 </devicesets>
 </library>
-<library name="Samtec MPPT Hermaphoditic 10 pos - MPPT-10-01-01-L-RA-SD">
-<packages>
-<package name="MPPT-10-01-01-L-RA-SD" urn="urn:adsk.eagle:footprint:25115826/1" locally_modified="yes">
-<pad name="1@1" x="-23.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="2@1" x="-18.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="3@1" x="-13.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="4@1" x="-8.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="5@1" x="-3.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="6@1" x="1.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="7@1" x="6.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="8@1" x="11.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="9@1" x="16.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="10@1" x="21.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="1@2" x="-21.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="2@2" x="-16.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="3@2" x="-11.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="4@2" x="-6.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="5@2" x="-1.56" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="6@2" x="3.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="7@2" x="8.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="8@2" x="13.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="9@2" x="18.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="10@2" x="23.44" y="2.26" drill="1.04" diameter="1.8"/>
-<pad name="1@3" x="-23.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="2@3" x="-18.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="3@3" x="-13.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="4@3" x="-8.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="5@3" x="-3.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="6@3" x="1.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="7@3" x="6.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="8@3" x="11.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="9@3" x="16.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="10@3" x="21.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="1@4" x="-21.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="2@4" x="-16.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="3@4" x="-11.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="4@4" x="-6.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="5@4" x="-1.56" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="6@4" x="3.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="7@4" x="8.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="8@4" x="13.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="9@4" x="18.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="10@4" x="23.44" y="4.8" drill="1.04" diameter="1.8"/>
-<pad name="1@5" x="-23.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="2@5" x="-18.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="3@5" x="-13.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="4@5" x="-8.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="5@5" x="-3.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="6@5" x="1.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="7@5" x="6.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="8@5" x="11.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="9@5" x="16.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="10@5" x="21.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="1@6" x="-21.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="2@6" x="-16.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="3@6" x="-11.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="4@6" x="-6.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="5@6" x="-1.56" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="6@6" x="3.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="7@6" x="8.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="8@6" x="13.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="9@6" x="18.44" y="7.34" drill="1.04" diameter="1.8"/>
-<pad name="10@6" x="23.44" y="7.34" drill="1.04" diameter="1.8"/>
-<wire x1="-28.75" y1="0" x2="28.75" y2="0" width="0.127" layer="21"/>
-<wire x1="28.75" y1="0" x2="28.75" y2="1.75" width="0.127" layer="21"/>
-<wire x1="28.5" y1="8.25" x2="28.5" y2="8.5" width="0.127" layer="21"/>
-<wire x1="28.5" y1="8.5" x2="-28.5" y2="8.5" width="0.127" layer="21"/>
-<wire x1="-28.75" y1="0" x2="-28.75" y2="1.75" width="0.127" layer="21"/>
-<wire x1="-28.5" y1="8.5" x2="-28.5" y2="8.25" width="0.127" layer="21"/>
-<wire x1="-29" y1="8.25" x2="-29" y2="8.75" width="0.127" layer="39"/>
-<wire x1="-29" y1="8.75" x2="29" y2="8.75" width="0.127" layer="39"/>
-<wire x1="29" y1="1.5" x2="29" y2="0" width="0.127" layer="39"/>
-<wire x1="29" y1="0" x2="-29" y2="0" width="0.127" layer="39"/>
-<wire x1="-28.75" y1="1.75" x2="-29" y2="8.25" width="0.127" layer="39" curve="-171.215457"/>
-<wire x1="-29" y1="0" x2="-29" y2="1.75" width="0.127" layer="39"/>
-<wire x1="28.5" y1="8.25" x2="29" y2="1.5" width="0.127" layer="39" curve="-171.573031"/>
-<wire x1="29" y1="8.75" x2="29" y2="8.25" width="0.127" layer="39"/>
-<circle x="28.5" y="4.93" radius="3.25" width="0.127" layer="21"/>
-<circle x="-28.5" y="4.93" radius="3.25" width="0.127" layer="21"/>
-<hole x="28.5" y="4.93" drill="3.6"/>
-<hole x="-28.5" y="4.93" drill="3.6"/>
-<text x="0" y="0" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-3.81" size="1.27" layer="27" align="bottom-center">THIS SIDE MUST BE OVER THE EDGE OF THE PCB</text>
-</package>
-</packages>
-<packages3d>
-<package3d name="MPPT-10-01-01-L-RA-SD" urn="urn:adsk.eagle:package:25115828/2" type="model">
-<packageinstances>
-<packageinstance name="MPPT-10-01-01-L-RA-SD"/>
-</packageinstances>
-</package3d>
-</packages3d>
-<symbols>
-<symbol name="CONN_10">
-<description>&lt;h3&gt; 10 Pin Connection&lt;/h3&gt;</description>
-<wire x1="3.81" y1="-15.24" x2="-2.54" y2="-15.24" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="-7.62" x2="2.54" y2="-7.62" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="-10.16" x2="2.54" y2="-10.16" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="-12.7" x2="2.54" y2="-12.7" width="0.6096" layer="94"/>
-<wire x1="-2.54" y1="12.7" x2="-2.54" y2="-15.24" width="0.4064" layer="94"/>
-<wire x1="3.81" y1="-15.24" x2="3.81" y2="12.7" width="0.4064" layer="94"/>
-<wire x1="-2.54" y1="12.7" x2="3.81" y2="12.7" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="-2.54" x2="2.54" y2="-2.54" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="-5.08" x2="2.54" y2="-5.08" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="0" x2="2.54" y2="0" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="2.54" x2="2.54" y2="2.54" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="5.08" x2="2.54" y2="5.08" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="7.62" x2="2.54" y2="7.62" width="0.6096" layer="94"/>
-<wire x1="1.27" y1="10.16" x2="2.54" y2="10.16" width="0.6096" layer="94"/>
-<text x="-2.54" y="13.208" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<pin name="1" x="7.62" y="-12.7" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="2" x="7.62" y="-10.16" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="3" x="7.62" y="-7.62" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="4" x="7.62" y="-5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="5" x="7.62" y="-2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="6" x="7.62" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="7" x="7.62" y="2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="8" x="7.62" y="5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="9" x="7.62" y="7.62" visible="pad" length="middle" direction="pas" rot="R180"/>
-<pin name="10" x="7.62" y="10.16" visible="pad" length="middle" direction="pas" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="MPPT-10-01-01-L-RA-SD" prefix="J" uservalue="yes">
-<description>Samtec MPPT Connector
-Right Angle
-Vertically mating
-Non-gendered
-https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
-<gates>
-<gate name="G$1" symbol="CONN_10" x="0" y="2.54"/>
-</gates>
-<devices>
-<device name="" package="MPPT-10-01-01-L-RA-SD">
-<connects>
-<connect gate="G$1" pin="1" pad="1@1 1@2 1@3 1@4 1@5 1@6"/>
-<connect gate="G$1" pin="10" pad="10@1 10@2 10@3 10@4 10@5 10@6"/>
-<connect gate="G$1" pin="2" pad="2@1 2@2 2@3 2@4 2@5 2@6"/>
-<connect gate="G$1" pin="3" pad="3@1 3@2 3@3 3@4 3@5 3@6"/>
-<connect gate="G$1" pin="4" pad="4@1 4@2 4@3 4@4 4@5 4@6"/>
-<connect gate="G$1" pin="5" pad="5@1 5@2 5@3 5@4 5@5 5@6"/>
-<connect gate="G$1" pin="6" pad="6@1 6@2 6@3 6@4 6@5 6@6"/>
-<connect gate="G$1" pin="7" pad="7@1 7@2 7@3 7@4 7@5 7@6"/>
-<connect gate="G$1" pin="8" pad="8@1 8@2 8@3 8@4 8@5 8@6"/>
-<connect gate="G$1" pin="9" pad="9@1 9@2 9@3 9@4 9@5 9@6"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:25115828/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="SparkFun-Capacitors" urn="urn:adsk.eagle:library:510">
 <description>&lt;h3&gt;SparkFun Capacitors&lt;/h3&gt;
 This library contains capacitors. 
@@ -1197,65 +1040,6 @@ CAP-09321</description>
 </deviceset>
 </devicesets>
 </library>
-<library name="Phoenix Contact PTSM-04-V-1778573">
-<packages>
-<package name="PXC-PTSM-04-RA-1778641">
-<pad name="1" x="0" y="0" drill="1.1" diameter="1.8"/>
-<wire x1="-2.1" y1="0" x2="-2.1" y2="-7.5" width="0.127" layer="21"/>
-<pad name="2" x="2.5" y="0" drill="1.1" diameter="1.8"/>
-<pad name="3" x="5" y="0" drill="1.1" diameter="1.8"/>
-<pad name="4" x="7.5" y="0" drill="1.1" diameter="1.8"/>
-<wire x1="-2.1" y1="-7.5" x2="9.6" y2="-7.5" width="0.127" layer="21"/>
-<wire x1="9.6" y1="-7.5" x2="9.6" y2="1" width="0.127" layer="21"/>
-<wire x1="9.6" y1="1" x2="-2.1" y2="1" width="0.127" layer="21"/>
-<wire x1="-2.1" y1="1" x2="-2.1" y2="0" width="0.127" layer="21"/>
-<text x="0" y="-5" size="1.27" layer="25">&gt;NAME</text>
-<wire x1="-2.2" y1="1.1" x2="9.7" y2="1.1" width="0.127" layer="39"/>
-<wire x1="9.7" y1="1.1" x2="9.7" y2="-7.6" width="0.127" layer="39"/>
-<wire x1="9.7" y1="-7.6" x2="-2.2" y2="-7.6" width="0.127" layer="39"/>
-<wire x1="-2.2" y1="-7.6" x2="-2.2" y2="1.1" width="0.127" layer="39"/>
-</package>
-</packages>
-<symbols>
-<symbol name="CONN_04">
-<description>&lt;h3&gt;4 Pin Connection&lt;/h3&gt;</description>
-<wire x1="1.27" y1="-5.08" x2="-5.08" y2="-5.08" width="0.4064" layer="94"/>
-<wire x1="-1.27" y1="2.54" x2="0" y2="2.54" width="0.6096" layer="94"/>
-<wire x1="-1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
-<wire x1="-1.27" y1="-2.54" x2="0" y2="-2.54" width="0.6096" layer="94"/>
-<wire x1="-5.08" y1="7.62" x2="-5.08" y2="-5.08" width="0.4064" layer="94"/>
-<wire x1="1.27" y1="-5.08" x2="1.27" y2="7.62" width="0.4064" layer="94"/>
-<wire x1="-5.08" y1="7.62" x2="1.27" y2="7.62" width="0.4064" layer="94"/>
-<wire x1="-1.27" y1="5.08" x2="0" y2="5.08" width="0.6096" layer="94"/>
-<text x="-5.08" y="-7.366" size="1.778" layer="96" font="vector">&gt;VALUE</text>
-<text x="-5.08" y="8.128" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<pin name="1" x="5.08" y="-2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="2" x="5.08" y="0" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="3" x="5.08" y="2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="4" x="5.08" y="5.08" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="PXC-PTSM-04-RA-1778641" prefix="J">
-<gates>
-<gate name="G$1" symbol="CONN_04" x="2.54" y="0"/>
-</gates>
-<devices>
-<device name="" package="PXC-PTSM-04-RA-1778641">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 <library name="Mounting Holes">
 <packages>
 <package name="6-32-HOLE" urn="urn:adsk.eagle:footprint:24384747/1">
@@ -1293,352 +1077,6 @@ CAP-09321</description>
 <package3dinstances>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:24384748/2"/>
 </package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="Backplane_ESC_adapter">
-<packages>
-<package name="BACKPLANE_ESC_ADAPTER_BKP_PWR">
-<pad name="GND@1" x="49.784" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@2" x="49.784" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@3" x="47.244" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@4" x="47.244" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@5" x="44.704" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@6" x="44.704" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@7" x="42.164" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@8" x="42.164" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@9" x="39.624" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@10" x="39.624" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@11" x="37.084" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@12" x="37.084" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="12V@1" x="65.024" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@2" x="65.024" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@3" x="62.484" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@4" x="62.484" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@5" x="59.944" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@6" x="59.944" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@7" x="57.404" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@8" x="57.404" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@9" x="54.864" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@10" x="54.864" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@11" x="52.324" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@12" x="52.324" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<wire x1="0" y1="0" x2="101.6" y2="0" width="0" layer="52"/>
-<wire x1="101.6" y1="0" x2="101.6" y2="41.148" width="0" layer="52"/>
-<wire x1="101.6" y1="41.148" x2="0" y2="41.148" width="0" layer="52"/>
-<wire x1="0" y1="41.148" x2="0" y2="0" width="0" layer="52"/>
-<text x="36.83" y="32.639" size="1.27" layer="25">&gt;NAME</text>
-<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.2" layer="22"/>
-<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.2" layer="22"/>
-<wire x1="66.484" y1="40.067" x2="35.624" y2="40.067" width="0.2" layer="22"/>
-<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.2" layer="22"/>
-<wire x1="35.374" y1="34.867" x2="35.374" y2="40.317" width="0.05" layer="40"/>
-<wire x1="35.374" y1="40.317" x2="66.734" y2="40.317" width="0.05" layer="40"/>
-<wire x1="66.734" y1="40.317" x2="66.734" y2="34.867" width="0.05" layer="40"/>
-<wire x1="66.734" y1="34.867" x2="35.374" y2="34.867" width="0.05" layer="40"/>
-</package>
-<package name="BACKPLANE_ESC_ADAPTER_ESC_PWR">
-<pad name="GND@1" x="49.784" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@2" x="49.784" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@3" x="47.244" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@4" x="47.244" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@5" x="44.704" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@6" x="44.704" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@7" x="42.164" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@8" x="42.164" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@9" x="39.624" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@10" x="39.624" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="GND@11" x="37.084" y="38.862" drill="1.016" diameter="1.8796"/>
-<pad name="GND@12" x="37.084" y="36.322" drill="1.016" diameter="1.8796"/>
-<pad name="12V@1" x="65.024" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@2" x="65.024" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@3" x="62.484" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@4" x="62.484" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@5" x="59.944" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@6" x="59.944" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@7" x="57.404" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@8" x="57.404" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@9" x="54.864" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@10" x="54.864" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@11" x="52.324" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
-<pad name="12V@12" x="52.324" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
-<wire x1="0" y1="0" x2="101.6" y2="0" width="0" layer="51"/>
-<wire x1="101.6" y1="0" x2="101.6" y2="41.148" width="0" layer="51"/>
-<wire x1="101.6" y1="41.148" x2="0" y2="41.148" width="0" layer="51"/>
-<wire x1="0" y1="41.148" x2="0" y2="0" width="0" layer="51"/>
-<text x="22.86" y="35.179" size="1.27" layer="25">&gt;NAME</text>
-<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.1" layer="51"/>
-<wire x1="35.624" y1="40.067" x2="66.484" y2="40.067" width="0.1" layer="51"/>
-<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.1" layer="51"/>
-<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.1" layer="51"/>
-<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.2" layer="21"/>
-<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.2" layer="21"/>
-<wire x1="66.484" y1="40.067" x2="35.624" y2="40.067" width="0.2" layer="21"/>
-<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.2" layer="21"/>
-<wire x1="35.374" y1="34.867" x2="35.374" y2="40.317" width="0.05" layer="39"/>
-<wire x1="35.374" y1="40.317" x2="66.734" y2="40.317" width="0.05" layer="39"/>
-<wire x1="66.734" y1="40.317" x2="66.734" y2="34.867" width="0.05" layer="39"/>
-<wire x1="66.734" y1="34.867" x2="35.374" y2="34.867" width="0.05" layer="39"/>
-</package>
-</packages>
-<symbols>
-<symbol name="PWR_RETURN">
-<pin name="12V" x="0" y="12.7" length="middle" rot="R270"/>
-<pin name="GND" x="0" y="-12.7" length="middle" rot="R90"/>
-<wire x1="-2.54" y1="7.62" x2="2.54" y2="7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="7.62" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="2.54" y1="-7.62" x2="-2.54" y2="-7.62" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="-7.62" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
-<text x="-2.54" y="-2.54" size="1.27" layer="95" rot="R90">&gt;NAME</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="BACKPLANE_ESC_ADAPTER_PWR">
-<gates>
-<gate name="G$1" symbol="PWR_RETURN" x="0" y="0"/>
-</gates>
-<devices>
-<device name="ESC" package="BACKPLANE_ESC_ADAPTER_ESC_PWR">
-<connects>
-<connect gate="G$1" pin="12V" pad="12V@1 12V@2 12V@3 12V@4 12V@5 12V@6 12V@7 12V@8 12V@9 12V@10 12V@11 12V@12"/>
-<connect gate="G$1" pin="GND" pad="GND@1 GND@2 GND@3 GND@4 GND@5 GND@6 GND@7 GND@8 GND@9 GND@10 GND@11 GND@12"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="BKP" package="BACKPLANE_ESC_ADAPTER_BKP_PWR">
-<connects>
-<connect gate="G$1" pin="12V" pad="12V@1 12V@2 12V@3 12V@4 12V@5 12V@6 12V@7 12V@8 12V@9 12V@10 12V@11 12V@12"/>
-<connect gate="G$1" pin="GND" pad="GND@1 GND@2 GND@3 GND@4 GND@5 GND@6 GND@7 GND@8 GND@9 GND@10 GND@11 GND@12"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="Phoenix Contact PTSM 8 pin">
-<packages>
-<package name="PXC-8-RA-1778683" urn="urn:adsk.eagle:footprint:25224877/1">
-<wire x1="0" y1="0" x2="0" y2="7.5" width="0.127" layer="21"/>
-<wire x1="0" y1="7.5" x2="21.7" y2="7.5" width="0.127" layer="21"/>
-<wire x1="0" y1="0" x2="21.7" y2="0" width="0.127" layer="21"/>
-<wire x1="21.7" y1="0" x2="21.7" y2="7.5" width="0.127" layer="21"/>
-<wire x1="-0.2" y1="8.2" x2="-0.2" y2="-0.2" width="0.127" layer="39"/>
-<wire x1="-0.2" y1="-0.2" x2="22" y2="-0.2" width="0.127" layer="39"/>
-<wire x1="22" y1="-0.2" x2="22" y2="8.2" width="0.127" layer="39"/>
-<wire x1="22" y1="8.2" x2="-0.2" y2="8.2" width="0.127" layer="39"/>
-<pad name="1" x="2.1" y="7.2" drill="1" diameter="1.7"/>
-<pad name="2" x="4.6" y="7.2" drill="1" diameter="1.7"/>
-<pad name="3" x="7.1" y="7.2" drill="1" diameter="1.7"/>
-<pad name="4" x="9.6" y="7.2" drill="1" diameter="1.7"/>
-<pad name="5" x="12.1" y="7.2" drill="1" diameter="1.7"/>
-<pad name="6" x="14.6" y="7.2" drill="1" diameter="1.7"/>
-<pad name="7" x="17.1" y="7.2" drill="1" diameter="1.7"/>
-<pad name="8" x="19.6" y="7.2" drill="1" diameter="1.7"/>
-</package>
-</packages>
-<packages3d>
-<package3d name="PXC-8-RA-1778683" urn="urn:adsk.eagle:package:25224885/2" type="model">
-<packageinstances>
-<packageinstance name="PXC-8-RA-1778683"/>
-</packageinstances>
-</package3d>
-</packages3d>
-<symbols>
-<symbol name="CONN_08">
-<wire x1="0" y1="7.62" x2="2.54" y2="7.62" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="7.62" x2="5.08" y2="7.62" width="0.1524" layer="94"/>
-<wire x1="0" y1="5.08" x2="2.54" y2="5.08" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="5.08" x2="5.08" y2="5.08" width="0.1524" layer="94"/>
-<wire x1="0" y1="2.54" x2="2.54" y2="2.54" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="2.54" x2="5.08" y2="2.54" width="0.1524" layer="94"/>
-<wire x1="0" y1="0" x2="2.54" y2="0" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.1524" layer="94"/>
-<wire x1="0" y1="-2.54" x2="2.54" y2="-2.54" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="-2.54" x2="5.08" y2="-2.54" width="0.1524" layer="94"/>
-<wire x1="0" y1="-5.08" x2="2.54" y2="-5.08" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="-5.08" x2="5.08" y2="-5.08" width="0.1524" layer="94"/>
-<wire x1="0" y1="-7.62" x2="2.54" y2="-7.62" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="-7.62" x2="5.08" y2="-7.62" width="0.1524" layer="94"/>
-<wire x1="0" y1="-10.16" x2="2.54" y2="-10.16" width="0.6096" layer="94"/>
-<wire x1="2.54" y1="-10.16" x2="5.08" y2="-10.16" width="0.1524" layer="94"/>
-<wire x1="5.08" y1="10.16" x2="5.08" y2="-12.7" width="0.254" layer="94"/>
-<wire x1="5.08" y1="-12.7" x2="-2.54" y2="-12.7" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="-12.7" x2="-2.54" y2="10.16" width="0.254" layer="94"/>
-<wire x1="-2.54" y1="10.16" x2="5.08" y2="10.16" width="0.254" layer="94"/>
-<pin name="1" x="7.62" y="7.62" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="2" x="7.62" y="5.08" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="3" x="7.62" y="2.54" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="4" x="7.62" y="0" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="5" x="7.62" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="6" x="7.62" y="-5.08" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="7" x="7.62" y="-7.62" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<pin name="8" x="7.62" y="-10.16" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
-<text x="-2.54" y="10.16" size="1.778" layer="95">&gt;NAME</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="PXC-8-RA-1778683" prefix="J">
-<gates>
-<gate name="G$1" symbol="CONN_08" x="0" y="7.62"/>
-</gates>
-<devices>
-<device name="" package="PXC-8-RA-1778683">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-<connect gate="G$1" pin="7" pad="7"/>
-<connect gate="G$1" pin="8" pad="8"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:25224885/2"/>
-</package3dinstances>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
-<library name="BLHeli_32 45A">
-<packages>
-<package name="BACKPLANE_CONNECTORS_BKP">
-<wire x1="-18.796" y1="-16.764" x2="-18.796" y2="17.272" width="0.1524" layer="51"/>
-<wire x1="-18.796" y1="17.272" x2="4.064" y2="17.272" width="0.1524" layer="51"/>
-<wire x1="4.064" y1="17.272" x2="4.064" y2="-16.764" width="0.1524" layer="51"/>
-<wire x1="4.064" y1="-16.764" x2="-18.796" y2="-16.764" width="0.1524" layer="51"/>
-<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.2" layer="21"/>
-<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.1" layer="152"/>
-<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.2" layer="21"/>
-<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.1" layer="152"/>
-<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.2" layer="21"/>
-<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.1" layer="152"/>
-<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.2" layer="21"/>
-<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.1" layer="152"/>
-<pad name="1" x="-1" y="-5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="2" x="1" y="-5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="3" x="-1" y="-3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="4" x="1" y="-3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="5" x="-1" y="-1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="6" x="1" y="-1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="7" x="-1" y="1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="8" x="1" y="1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="9" x="-1" y="3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="10" x="1" y="3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="11" x="-1" y="5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="12" x="1" y="5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<wire x1="-2.667" y1="-6.985" x2="2.667" y2="-6.985" width="0.127" layer="39"/>
-<wire x1="2.667" y1="-6.985" x2="2.667" y2="6.858" width="0.127" layer="39"/>
-<wire x1="2.667" y1="6.858" x2="-2.667" y2="6.858" width="0.127" layer="39"/>
-<wire x1="-2.667" y1="6.858" x2="-2.667" y2="-6.985" width="0.127" layer="39"/>
-</package>
-<package name="BACKPLANE_CONNECTORS_ESC">
-<wire x1="-18.796" y1="-16.764" x2="-18.796" y2="17.272" width="0.1524" layer="52"/>
-<wire x1="-18.796" y1="17.272" x2="4.064" y2="17.272" width="0.1524" layer="52"/>
-<wire x1="4.064" y1="17.272" x2="4.064" y2="-16.764" width="0.1524" layer="52"/>
-<wire x1="4.064" y1="-16.764" x2="-18.796" y2="-16.764" width="0.1524" layer="52"/>
-<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.2" layer="21"/>
-<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.1" layer="152"/>
-<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.2" layer="21"/>
-<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.1" layer="152"/>
-<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.2" layer="21"/>
-<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.1" layer="152"/>
-<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.2" layer="21"/>
-<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.1" layer="152"/>
-<pad name="1" x="-1" y="-5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="2" x="1" y="-5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="3" x="-1" y="-3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="4" x="1" y="-3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="5" x="-1" y="-1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="6" x="1" y="-1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="7" x="-1" y="1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="8" x="1" y="1" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="9" x="-1" y="3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="10" x="1" y="3" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="11" x="-1" y="5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<pad name="12" x="1" y="5" drill="0.79" diameter="1.39" rot="R90" stop="no"/>
-<wire x1="-2.667" y1="-6.985" x2="2.667" y2="-6.985" width="0.127" layer="40"/>
-<wire x1="2.667" y1="-6.985" x2="2.667" y2="6.858" width="0.127" layer="40"/>
-<wire x1="2.667" y1="6.858" x2="-2.667" y2="6.858" width="0.127" layer="40"/>
-<wire x1="-2.667" y1="6.858" x2="-2.667" y2="-6.985" width="0.127" layer="40"/>
-</package>
-</packages>
-<symbols>
-<symbol name="SAMTEC-CLT-106-01-X-DA">
-<wire x1="-6.096" y1="8.89" x2="6.584" y2="8.89" width="0.254" layer="94"/>
-<wire x1="6.584" y1="8.89" x2="6.584" y2="-8.89" width="0.254" layer="94"/>
-<wire x1="6.584" y1="-8.89" x2="-6.096" y2="-8.89" width="0.254" layer="94"/>
-<wire x1="-6.096" y1="-8.89" x2="-6.096" y2="8.89" width="0.254" layer="94"/>
-<pin name="1" x="-11.176" y="6.35" length="middle" direction="pas"/>
-<pin name="2" x="11.684" y="6.35" length="middle" direction="pas" rot="R180"/>
-<pin name="3" x="-11.176" y="3.81" length="middle" direction="pas"/>
-<pin name="4" x="11.684" y="3.81" length="middle" direction="pas" rot="R180"/>
-<pin name="5" x="-11.176" y="1.27" length="middle" direction="pas"/>
-<pin name="6" x="11.684" y="1.27" length="middle" direction="pas" rot="R180"/>
-<pin name="7" x="-11.176" y="-1.27" length="middle" direction="pas"/>
-<pin name="8" x="11.684" y="-1.27" length="middle" direction="pas" rot="R180"/>
-<pin name="9" x="-11.176" y="-3.81" length="middle" direction="pas"/>
-<pin name="10" x="11.684" y="-3.81" length="middle" direction="pas" rot="R180"/>
-<pin name="11" x="-11.176" y="-6.35" length="middle" direction="pas"/>
-<pin name="12" x="11.684" y="-6.35" length="middle" direction="pas" rot="R180"/>
-<text x="0" y="10.16" size="1.27" layer="95">&gt;NAME</text>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="BACKPLANE_CONNECTORS">
-<description>Use samtec TMM and MMS</description>
-<gates>
-<gate name="G$1" symbol="SAMTEC-CLT-106-01-X-DA" x="0" y="0"/>
-</gates>
-<devices>
-<device name="BKP" package="BACKPLANE_CONNECTORS_BKP">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="10" pad="10"/>
-<connect gate="G$1" pin="11" pad="11"/>
-<connect gate="G$1" pin="12" pad="12"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-<connect gate="G$1" pin="7" pad="7"/>
-<connect gate="G$1" pin="8" pad="8"/>
-<connect gate="G$1" pin="9" pad="9"/>
-</connects>
-<technologies>
-<technology name=""/>
-</technologies>
-</device>
-<device name="ESC" package="BACKPLANE_CONNECTORS_ESC">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="10" pad="10"/>
-<connect gate="G$1" pin="11" pad="11"/>
-<connect gate="G$1" pin="12" pad="12"/>
-<connect gate="G$1" pin="2" pad="2"/>
-<connect gate="G$1" pin="3" pad="3"/>
-<connect gate="G$1" pin="4" pad="4"/>
-<connect gate="G$1" pin="5" pad="5"/>
-<connect gate="G$1" pin="6" pad="6"/>
-<connect gate="G$1" pin="7" pad="7"/>
-<connect gate="G$1" pin="8" pad="8"/>
-<connect gate="G$1" pin="9" pad="9"/>
-</connects>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -1946,7 +1384,7 @@ by exp-lbrs.ulp</description>
 </library>
 <library name="CONN, Distribution-Backplane">
 <packages>
-<package name="SAMTEC_IPL1-107-01-X-D-K(B-D)">
+<package name="SAMTEC_IPL1-107-01-X-D-K(B-D)" urn="urn:adsk.eagle:footprint:32878647/1">
 <wire x1="-9.65" y1="3.675" x2="-9.65" y2="-3.675" width="0.1" layer="51"/>
 <wire x1="-9.65" y1="-3.675" x2="-9.0785" y2="-3.675" width="0.1" layer="51"/>
 <wire x1="-9.0785" y1="-3.675" x2="-9.0785" y2="-3.175" width="0.1" layer="51"/>
@@ -1967,15 +1405,11 @@ by exp-lbrs.ulp</description>
 <wire x1="-1.905" y1="3.175" x2="-9.0785" y2="3.175" width="0.1" layer="51"/>
 <wire x1="-9.0785" y1="3.175" x2="-9.0785" y2="3.675" width="0.1" layer="51"/>
 <wire x1="-9.0785" y1="3.675" x2="-9.65" y2="3.675" width="0.1" layer="51"/>
-<circle x="-10.414" y="1.27" radius="0.1" width="0.2" layer="21"/>
-<circle x="-10.414" y="1.27" radius="0.1" width="0.2" layer="51"/>
 <wire x1="-1.27" y1="-3.175" x2="1.27" y2="-3.175" width="0.1" layer="51"/>
 <wire x1="-9.9" y1="3.925" x2="9.9" y2="3.925" width="0.05" layer="39"/>
 <wire x1="9.9" y1="3.925" x2="9.9" y2="-4.445" width="0.05" layer="39"/>
 <wire x1="9.9" y1="-4.445" x2="-9.9" y2="-4.445" width="0.05" layer="39"/>
 <wire x1="-9.9" y1="-4.445" x2="-9.9" y2="3.925" width="0.05" layer="39"/>
-<text x="-9.652" y="4.177" size="1.27" layer="25">&gt;NAME</text>
-<text x="-9.652" y="-4.693" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
 <wire x1="-9.65" y1="3.675" x2="-9.65" y2="-3.675" width="0.2" layer="21"/>
 <wire x1="-9.65" y1="-3.675" x2="-9.0785" y2="-3.675" width="0.2" layer="21"/>
 <wire x1="-9.0785" y1="-3.675" x2="-9.0785" y2="-3.175" width="0.2" layer="21"/>
@@ -1996,6 +1430,10 @@ by exp-lbrs.ulp</description>
 <wire x1="-1.905" y1="3.175" x2="-9.0785" y2="3.175" width="0.2" layer="21"/>
 <wire x1="-9.0785" y1="3.175" x2="-9.0785" y2="3.675" width="0.2" layer="21"/>
 <wire x1="-9.0785" y1="3.675" x2="-9.65" y2="3.675" width="0.2" layer="21"/>
+<circle x="-10.414" y="1.27" radius="0.1" width="0.2" layer="21"/>
+<circle x="-10.414" y="1.27" radius="0.1" width="0.2" layer="51"/>
+<text x="-9.652" y="4.177" size="1.27" layer="25">&gt;NAME</text>
+<text x="-9.652" y="-4.693" size="1.27" layer="27" align="top-left">&gt;VALUE</text>
 <pad name="08" x="-7.62" y="1.27" drill="1.02"/>
 <pad name="09" x="-5.08" y="1.27" drill="1.02"/>
 <pad name="02" x="-5.08" y="-1.27" drill="1.02"/>
@@ -2012,6 +1450,13 @@ by exp-lbrs.ulp</description>
 <pad name="07" x="7.62" y="-1.27" drill="1.02"/>
 </package>
 </packages>
+<packages3d>
+<package3d name="SAMTEC_IPL1-107-01-X-D-K(B-D)" urn="urn:adsk.eagle:package:32878650/2" type="model">
+<packageinstances>
+<packageinstance name="SAMTEC_IPL1-107-01-X-D-K(B-D)"/>
+</packageinstances>
+</package3d>
+</packages3d>
 <symbols>
 <symbol name="IPL1-107-01-X-D-K">
 <wire x1="-10.16" y1="10.16" x2="-10.16" y2="-10.16" width="0.254" layer="94"/>
@@ -2053,6 +1498,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="GND_12V" pad="14"/>
 <connect gate="G$1" pin="GND_5V" pad="05 06"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:32878650/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -2063,7 +1511,7 @@ by exp-lbrs.ulp</description>
 </library>
 <library name="PI-SHIELD, Solenoid-Backplane">
 <packages>
-<package name="IPL7X2" urn="urn:adsk.eagle:footprint:25179488/1" locally_modified="yes">
+<package name="IPL7X2" urn="urn:adsk.eagle:footprint:33723614/1">
 <pad name="1" x="2.032" y="3.81" drill="1.016" diameter="1.524"/>
 <pad name="2" x="2.032" y="1.27" drill="1.016" diameter="1.524"/>
 <pad name="3" x="4.572" y="3.81" drill="1.016" diameter="1.524"/>
@@ -2076,6 +1524,8 @@ by exp-lbrs.ulp</description>
 <pad name="10" x="12.192" y="1.27" drill="1.016" diameter="1.524"/>
 <pad name="11" x="14.732" y="3.81" drill="1.016" diameter="1.524"/>
 <pad name="12" x="14.732" y="1.27" drill="1.016" diameter="1.524"/>
+<pad name="13" x="17.272" y="3.81" drill="1.016" diameter="1.524"/>
+<pad name="14" x="17.272" y="1.27" drill="1.016" diameter="1.524"/>
 <wire x1="0" y1="5.08" x2="0" y2="0" width="0.1524" layer="21"/>
 <wire x1="0" y1="0" x2="19.304" y2="0" width="0.1524" layer="21"/>
 <wire x1="19.304" y1="0" x2="19.304" y2="5.08" width="0.1524" layer="21"/>
@@ -2084,11 +1534,16 @@ by exp-lbrs.ulp</description>
 <wire x1="0" y1="0" x2="19.304" y2="0" width="0.1524" layer="39"/>
 <wire x1="19.304" y1="0" x2="19.304" y2="5.08" width="0.1524" layer="39"/>
 <wire x1="19.304" y1="5.08" x2="0" y2="5.08" width="0.1524" layer="39"/>
-<pad name="13" x="17.272" y="3.81" drill="1.016" diameter="1.524"/>
-<pad name="14" x="17.272" y="1.27" drill="1.016" diameter="1.524"/>
 <text x="0" y="5.08" size="1.27" layer="25">&gt;NAME</text>
 </package>
 </packages>
+<packages3d>
+<package3d name="IPL7X2" urn="urn:adsk.eagle:package:33723615/2" type="model">
+<packageinstances>
+<packageinstance name="IPL7X2"/>
+</packageinstances>
+</package3d>
+</packages3d>
 <symbols>
 <symbol name="CONN_7X2">
 <description>&lt;h3&gt; 24 Pin Connection&lt;/h3&gt;
@@ -2152,6 +1607,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="23" pad="12"/>
 <connect gate="G$1" pin="24" pad="11"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33723615/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -2162,7 +1620,7 @@ by exp-lbrs.ulp</description>
 </library>
 <library name="CONN, DataConversion-Backplane Connector- SAMTEC CLT-107-01-F-D">
 <packages>
-<package name="SAMTEC-CLT-107-01-X-D-BACKPLANE">
+<package name="SAMTEC-CLT-107-01-X-D-BACKPLANE" urn="urn:adsk.eagle:footprint:33723579/1">
 <description>translated Allegro footprint</description>
 <wire x1="-7.45" y1="2.582" x2="-7.45" y2="-2.582" width="0.2" layer="21"/>
 <wire x1="-7.45" y1="2.582" x2="-7.45" y2="-2.582" width="0.1" layer="152"/>
@@ -2370,6 +1828,14 @@ by exp-lbrs.ulp</description>
 <wire x1="5" y1="0.444" x2="5.444" y2="0" width="0.1" layer="51" curve="-90"/>
 <wire x1="7" y1="2" x2="7" y2="-2" width="0.1" layer="51"/>
 <wire x1="6.305" y1="1.305" x2="5.695" y2="1.305" width="0.1" layer="51"/>
+<wire x1="-7.62" y1="-2.794" x2="7.62" y2="-2.794" width="0.1524" layer="39"/>
+<wire x1="7.62" y1="-2.794" x2="7.62" y2="2.794" width="0.1524" layer="39"/>
+<wire x1="7.62" y1="2.794" x2="-7.62" y2="2.794" width="0.1524" layer="39"/>
+<wire x1="-7.62" y1="2.794" x2="-7.62" y2="-2.794" width="0.1524" layer="39"/>
+<wire x1="7.747" y1="-20.828" x2="7.747" y2="2.921" width="0.1524" layer="25"/>
+<wire x1="-7.747" y1="-20.828" x2="-7.747" y2="2.921" width="0.1524" layer="25"/>
+<wire x1="-7.747" y1="2.921" x2="7.747" y2="2.921" width="0.1524" layer="25"/>
+<wire x1="-7.747" y1="-20.828" x2="7.747" y2="-20.828" width="0.1524" layer="25"/>
 <text x="-6.915" y="3.317" size="1.016" layer="25">&gt;NAME</text>
 <circle x="-6" y="1.511" radius="0.671" width="0" layer="29"/>
 <circle x="-6" y="1.511" radius="0.671" width="0" layer="30"/>
@@ -2413,16 +1879,16 @@ by exp-lbrs.ulp</description>
 <pad name="12" x="4" y="-1.511" drill="0.64" diameter="1.24" stop="no"/>
 <pad name="13" x="6" y="1.511" drill="0.64" diameter="1.24" stop="no"/>
 <pad name="14" x="6" y="-1.511" drill="0.64" diameter="1.24" stop="no"/>
-<wire x1="-7.62" y1="-2.794" x2="7.62" y2="-2.794" width="0.1524" layer="39"/>
-<wire x1="7.62" y1="-2.794" x2="7.62" y2="2.794" width="0.1524" layer="39"/>
-<wire x1="7.62" y1="2.794" x2="-7.62" y2="2.794" width="0.1524" layer="39"/>
-<wire x1="-7.62" y1="2.794" x2="-7.62" y2="-2.794" width="0.1524" layer="39"/>
-<wire x1="7.747" y1="-20.828" x2="7.747" y2="2.921" width="0.1524" layer="25"/>
-<wire x1="-7.747" y1="-20.828" x2="-7.747" y2="2.921" width="0.1524" layer="25"/>
-<wire x1="-7.747" y1="2.921" x2="7.747" y2="2.921" width="0.1524" layer="25"/>
-<wire x1="-7.747" y1="-20.828" x2="7.747" y2="-20.828" width="0.1524" layer="25"/>
 </package>
 </packages>
+<packages3d>
+<package3d name="SAMTEC-CLT-107-01-X-D-BACKPLANE" urn="urn:adsk.eagle:package:33723582/2" type="model">
+<description>translated Allegro footprint</description>
+<packageinstances>
+<packageinstance name="SAMTEC-CLT-107-01-X-D-BACKPLANE"/>
+</packageinstances>
+</package3d>
+</packages3d>
 <symbols>
 <symbol name="SAMTEC-CLT-107-01-X-DA">
 <text x="0" y="5.08" size="2.54" layer="95">&gt;NAME</text>
@@ -2470,6 +1936,9 @@ by exp-lbrs.ulp</description>
 <connect gate="G$1" pin="8" pad="8"/>
 <connect gate="G$1" pin="9" pad="9"/>
 </connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33723582/2"/>
+</package3dinstances>
 <technologies>
 <technology name=""/>
 </technologies>
@@ -2568,6 +2037,614 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 </deviceset>
 </devicesets>
 </library>
+<library name="CONN, Backplane_ESC_adapter">
+<packages>
+<package name="BACKPLANE_ESC_ADAPTER_ESC_PWR" urn="urn:adsk.eagle:footprint:33723359/1">
+<pad name="GND@1" x="49.784" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@2" x="49.784" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@3" x="47.244" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@4" x="47.244" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@5" x="44.704" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@6" x="44.704" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@7" x="42.164" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@8" x="42.164" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@9" x="39.624" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@10" x="39.624" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@11" x="37.084" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@12" x="37.084" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="12V@1" x="65.024" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@2" x="65.024" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@3" x="62.484" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@4" x="62.484" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@5" x="59.944" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@6" x="59.944" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@7" x="57.404" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@8" x="57.404" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@9" x="54.864" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@10" x="54.864" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@11" x="52.324" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@12" x="52.324" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0" layer="51"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="41.148" width="0" layer="51"/>
+<wire x1="101.6" y1="41.148" x2="0" y2="41.148" width="0" layer="51"/>
+<wire x1="0" y1="41.148" x2="0" y2="0" width="0" layer="51"/>
+<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.1" layer="51"/>
+<wire x1="35.624" y1="40.067" x2="66.484" y2="40.067" width="0.1" layer="51"/>
+<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.1" layer="51"/>
+<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.1" layer="51"/>
+<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.2" layer="21"/>
+<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.2" layer="21"/>
+<wire x1="66.484" y1="40.067" x2="35.624" y2="40.067" width="0.2" layer="21"/>
+<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.2" layer="21"/>
+<wire x1="35.374" y1="34.867" x2="35.374" y2="40.317" width="0.05" layer="39"/>
+<wire x1="35.374" y1="40.317" x2="66.734" y2="40.317" width="0.05" layer="39"/>
+<wire x1="66.734" y1="40.317" x2="66.734" y2="34.867" width="0.05" layer="39"/>
+<wire x1="66.734" y1="34.867" x2="35.374" y2="34.867" width="0.05" layer="39"/>
+<text x="22.86" y="35.179" size="1.27" layer="25">&gt;NAME</text>
+</package>
+<package name="BACKPLANE_ESC_ADAPTER_BKP_PWR" urn="urn:adsk.eagle:footprint:33723357/1">
+<pad name="GND@1" x="49.784" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@2" x="49.784" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@3" x="47.244" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@4" x="47.244" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@5" x="44.704" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@6" x="44.704" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@7" x="42.164" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@8" x="42.164" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@9" x="39.624" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@10" x="39.624" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="GND@11" x="37.084" y="38.862" drill="1.016" diameter="1.8796"/>
+<pad name="GND@12" x="37.084" y="36.322" drill="1.016" diameter="1.8796"/>
+<pad name="12V@1" x="65.024" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@2" x="65.024" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@3" x="62.484" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@4" x="62.484" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@5" x="59.944" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@6" x="59.944" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@7" x="57.404" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@8" x="57.404" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@9" x="54.864" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@10" x="54.864" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@11" x="52.324" y="36.322" drill="1.016" diameter="1.8796" rot="R180"/>
+<pad name="12V@12" x="52.324" y="38.862" drill="1.016" diameter="1.8796" rot="R180"/>
+<wire x1="0" y1="0" x2="101.6" y2="0" width="0" layer="52"/>
+<wire x1="101.6" y1="0" x2="101.6" y2="41.148" width="0" layer="52"/>
+<wire x1="101.6" y1="41.148" x2="0" y2="41.148" width="0" layer="52"/>
+<wire x1="0" y1="41.148" x2="0" y2="0" width="0" layer="52"/>
+<wire x1="35.624" y1="35.117" x2="35.624" y2="40.067" width="0.2" layer="22"/>
+<wire x1="66.484" y1="40.067" x2="66.484" y2="35.117" width="0.2" layer="22"/>
+<wire x1="66.484" y1="40.067" x2="35.624" y2="40.067" width="0.2" layer="22"/>
+<wire x1="66.484" y1="35.117" x2="35.624" y2="35.117" width="0.2" layer="22"/>
+<wire x1="35.374" y1="34.867" x2="35.374" y2="40.317" width="0.05" layer="40"/>
+<wire x1="35.374" y1="40.317" x2="66.734" y2="40.317" width="0.05" layer="40"/>
+<wire x1="66.734" y1="40.317" x2="66.734" y2="34.867" width="0.05" layer="40"/>
+<wire x1="66.734" y1="34.867" x2="35.374" y2="34.867" width="0.05" layer="40"/>
+<text x="36.83" y="32.639" size="1.27" layer="25">&gt;NAME</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="BACKPLANE_ESC_ADAPTER_ESC_PWR" urn="urn:adsk.eagle:package:33723364/2" type="model">
+<packageinstances>
+<packageinstance name="BACKPLANE_ESC_ADAPTER_ESC_PWR"/>
+</packageinstances>
+</package3d>
+<package3d name="BACKPLANE_ESC_ADAPTER_BKP_PWR" urn="urn:adsk.eagle:package:33723362/2" type="model">
+<packageinstances>
+<packageinstance name="BACKPLANE_ESC_ADAPTER_BKP_PWR"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="PWR_RETURN">
+<pin name="12V" x="0" y="12.7" length="middle" rot="R270"/>
+<pin name="GND" x="0" y="-12.7" length="middle" rot="R90"/>
+<wire x1="-2.54" y1="7.62" x2="2.54" y2="7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="7.62" x2="2.54" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="2.54" y1="-7.62" x2="-2.54" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-7.62" x2="-2.54" y2="7.62" width="0.254" layer="94"/>
+<text x="-2.54" y="-2.54" size="1.27" layer="95" rot="R90">&gt;NAME</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="BACKPLANE_ESC_ADAPTER_PWR">
+<gates>
+<gate name="G$1" symbol="PWR_RETURN" x="0" y="0"/>
+</gates>
+<devices>
+<device name="ESC" package="BACKPLANE_ESC_ADAPTER_ESC_PWR">
+<connects>
+<connect gate="G$1" pin="12V" pad="12V@1 12V@2 12V@3 12V@4 12V@5 12V@6 12V@7 12V@8 12V@9 12V@10 12V@11 12V@12"/>
+<connect gate="G$1" pin="GND" pad="GND@1 GND@2 GND@3 GND@4 GND@5 GND@6 GND@7 GND@8 GND@9 GND@10 GND@11 GND@12"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33723364/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="BKP" package="BACKPLANE_ESC_ADAPTER_BKP_PWR">
+<connects>
+<connect gate="G$1" pin="12V" pad="12V@1 12V@2 12V@3 12V@4 12V@5 12V@6 12V@7 12V@8 12V@9 12V@10 12V@11 12V@12"/>
+<connect gate="G$1" pin="GND" pad="GND@1 GND@2 GND@3 GND@4 GND@5 GND@6 GND@7 GND@8 GND@9 GND@10 GND@11 GND@12"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33723362/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="Conn, Backplane-ESC-Controller">
+<packages>
+<package name="BACKPLANE_CONNECTORS_BKP" urn="urn:adsk.eagle:footprint:33721617/1">
+<wire x1="-18.796" y1="-16.764" x2="-18.796" y2="17.272" width="0.1524" layer="51"/>
+<wire x1="-18.796" y1="17.272" x2="4.064" y2="17.272" width="0.1524" layer="51"/>
+<wire x1="4.064" y1="17.272" x2="4.064" y2="-16.764" width="0.1524" layer="51"/>
+<wire x1="4.064" y1="-16.764" x2="-18.796" y2="-16.764" width="0.1524" layer="51"/>
+<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.2" layer="21"/>
+<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.1" layer="152"/>
+<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.2" layer="21"/>
+<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.1" layer="152"/>
+<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.2" layer="21"/>
+<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.1" layer="152"/>
+<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.2" layer="21"/>
+<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.1" layer="152"/>
+<wire x1="-2.667" y1="-6.985" x2="2.667" y2="-6.985" width="0.127" layer="39"/>
+<wire x1="2.667" y1="-6.985" x2="2.667" y2="6.858" width="0.127" layer="39"/>
+<wire x1="2.667" y1="6.858" x2="-2.667" y2="6.858" width="0.127" layer="39"/>
+<wire x1="-2.667" y1="6.858" x2="-2.667" y2="-6.985" width="0.127" layer="39"/>
+<pad name="1" x="-1" y="-5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="2" x="1" y="-5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="3" x="-1" y="-3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="4" x="1" y="-3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="5" x="-1" y="-1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="6" x="1" y="-1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="7" x="-1" y="1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="8" x="1" y="1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="9" x="-1" y="3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="10" x="1" y="3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="11" x="-1" y="5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="12" x="1" y="5" drill="0.79" diameter="1.39" rot="R90"/>
+</package>
+<package name="BACKPLANE_CONNECTORS_ESC" urn="urn:adsk.eagle:footprint:33721616/1">
+<wire x1="-18.796" y1="-16.764" x2="-18.796" y2="17.272" width="0.1524" layer="52"/>
+<wire x1="-18.796" y1="17.272" x2="4.064" y2="17.272" width="0.1524" layer="52"/>
+<wire x1="4.064" y1="17.272" x2="4.064" y2="-16.764" width="0.1524" layer="52"/>
+<wire x1="4.064" y1="-16.764" x2="-18.796" y2="-16.764" width="0.1524" layer="52"/>
+<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.2" layer="21"/>
+<wire x1="-2.449" y1="-6.729" x2="2.449" y2="-6.729" width="0.1" layer="152"/>
+<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.2" layer="21"/>
+<wire x1="2.449" y1="-6.729" x2="2.449" y2="6.729" width="0.1" layer="152"/>
+<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.2" layer="21"/>
+<wire x1="2.449" y1="6.729" x2="-2.449" y2="6.729" width="0.1" layer="152"/>
+<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.2" layer="21"/>
+<wire x1="-2.449" y1="6.729" x2="-2.449" y2="-6.729" width="0.1" layer="152"/>
+<wire x1="-2.667" y1="-6.985" x2="2.667" y2="-6.985" width="0.127" layer="40"/>
+<wire x1="2.667" y1="-6.985" x2="2.667" y2="6.858" width="0.127" layer="40"/>
+<wire x1="2.667" y1="6.858" x2="-2.667" y2="6.858" width="0.127" layer="40"/>
+<wire x1="-2.667" y1="6.858" x2="-2.667" y2="-6.985" width="0.127" layer="40"/>
+<pad name="1" x="-1" y="-5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="2" x="1" y="-5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="3" x="-1" y="-3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="4" x="1" y="-3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="5" x="-1" y="-1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="6" x="1" y="-1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="7" x="-1" y="1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="8" x="1" y="1" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="9" x="-1" y="3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="10" x="1" y="3" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="11" x="-1" y="5" drill="0.79" diameter="1.39" rot="R90"/>
+<pad name="12" x="1" y="5" drill="0.79" diameter="1.39" rot="R90"/>
+</package>
+</packages>
+<packages3d>
+<package3d name="BACKPLANE_CONNECTORS_BKP" urn="urn:adsk.eagle:package:33721620/2" type="model">
+<packageinstances>
+<packageinstance name="BACKPLANE_CONNECTORS_BKP"/>
+</packageinstances>
+</package3d>
+<package3d name="BACKPLANE_CONNECTORS_ESC" urn="urn:adsk.eagle:package:33721619/2" type="model">
+<packageinstances>
+<packageinstance name="BACKPLANE_CONNECTORS_ESC"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="SAMTEC-CLT-106-01-X-DA">
+<wire x1="-6.096" y1="8.89" x2="6.584" y2="8.89" width="0.254" layer="94"/>
+<wire x1="6.584" y1="8.89" x2="6.584" y2="-8.89" width="0.254" layer="94"/>
+<wire x1="6.584" y1="-8.89" x2="-6.096" y2="-8.89" width="0.254" layer="94"/>
+<wire x1="-6.096" y1="-8.89" x2="-6.096" y2="8.89" width="0.254" layer="94"/>
+<pin name="1" x="-11.176" y="6.35" length="middle" direction="pas"/>
+<pin name="2" x="11.684" y="6.35" length="middle" direction="pas" rot="R180"/>
+<pin name="3" x="-11.176" y="3.81" length="middle" direction="pas"/>
+<pin name="4" x="11.684" y="3.81" length="middle" direction="pas" rot="R180"/>
+<pin name="5" x="-11.176" y="1.27" length="middle" direction="pas"/>
+<pin name="6" x="11.684" y="1.27" length="middle" direction="pas" rot="R180"/>
+<pin name="7" x="-11.176" y="-1.27" length="middle" direction="pas"/>
+<pin name="8" x="11.684" y="-1.27" length="middle" direction="pas" rot="R180"/>
+<pin name="9" x="-11.176" y="-3.81" length="middle" direction="pas"/>
+<pin name="10" x="11.684" y="-3.81" length="middle" direction="pas" rot="R180"/>
+<pin name="11" x="-11.176" y="-6.35" length="middle" direction="pas"/>
+<pin name="12" x="11.684" y="-6.35" length="middle" direction="pas" rot="R180"/>
+<text x="0" y="10.16" size="1.27" layer="95">&gt;NAME</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="BACKPLANE_CONNECTORS">
+<description>Use samtec TMM and MMS</description>
+<gates>
+<gate name="G$1" symbol="SAMTEC-CLT-106-01-X-DA" x="0" y="0"/>
+</gates>
+<devices>
+<device name="BKP" package="BACKPLANE_CONNECTORS_BKP">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33721620/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+<device name="ESC" package="BACKPLANE_CONNECTORS_ESC">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33721619/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="CONN, Samtec MPPT Hermaphoditic 10 pos - MPPT-10-01-01-L-RA-SD">
+<packages>
+<package name="MPPT-10-01-01-L-RA-SD" urn="urn:adsk.eagle:footprint:25115826/1" locally_modified="yes">
+<pad name="1@1" x="-23.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="2@1" x="-18.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="3@1" x="-13.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="4@1" x="-8.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="5@1" x="-3.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="6@1" x="1.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="7@1" x="6.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="8@1" x="11.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="9@1" x="16.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="10@1" x="21.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="1@2" x="-21.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="2@2" x="-16.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="3@2" x="-11.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="4@2" x="-6.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="5@2" x="-1.56" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="6@2" x="3.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="7@2" x="8.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="8@2" x="13.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="9@2" x="18.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="10@2" x="23.44" y="2.26" drill="1.04" diameter="1.8"/>
+<pad name="1@3" x="-23.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="2@3" x="-18.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="3@3" x="-13.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="4@3" x="-8.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="5@3" x="-3.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="6@3" x="1.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="7@3" x="6.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="8@3" x="11.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="9@3" x="16.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="10@3" x="21.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="1@4" x="-21.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="2@4" x="-16.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="3@4" x="-11.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="4@4" x="-6.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="5@4" x="-1.56" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="6@4" x="3.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="7@4" x="8.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="8@4" x="13.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="9@4" x="18.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="10@4" x="23.44" y="4.8" drill="1.04" diameter="1.8"/>
+<pad name="1@5" x="-23.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="2@5" x="-18.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="3@5" x="-13.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="4@5" x="-8.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="5@5" x="-3.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="6@5" x="1.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="7@5" x="6.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="8@5" x="11.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="9@5" x="16.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="10@5" x="21.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="1@6" x="-21.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="2@6" x="-16.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="3@6" x="-11.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="4@6" x="-6.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="5@6" x="-1.56" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="6@6" x="3.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="7@6" x="8.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="8@6" x="13.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="9@6" x="18.44" y="7.34" drill="1.04" diameter="1.8"/>
+<pad name="10@6" x="23.44" y="7.34" drill="1.04" diameter="1.8"/>
+<wire x1="-28.75" y1="0" x2="28.75" y2="0" width="0.127" layer="21"/>
+<wire x1="28.75" y1="0" x2="28.75" y2="1.75" width="0.127" layer="21"/>
+<wire x1="28.5" y1="8.25" x2="28.5" y2="8.5" width="0.127" layer="21"/>
+<wire x1="28.5" y1="8.5" x2="-28.5" y2="8.5" width="0.127" layer="21"/>
+<wire x1="-28.75" y1="0" x2="-28.75" y2="1.75" width="0.127" layer="21"/>
+<wire x1="-28.5" y1="8.5" x2="-28.5" y2="8.25" width="0.127" layer="21"/>
+<wire x1="-29" y1="8.25" x2="-29" y2="8.75" width="0.127" layer="39"/>
+<wire x1="-29" y1="8.75" x2="29" y2="8.75" width="0.127" layer="39"/>
+<wire x1="29" y1="1.5" x2="29" y2="0" width="0.127" layer="39"/>
+<wire x1="29" y1="0" x2="-29" y2="0" width="0.127" layer="39"/>
+<wire x1="-28.75" y1="1.75" x2="-29" y2="8.25" width="0.127" layer="39" curve="-171.215457"/>
+<wire x1="-29" y1="0" x2="-29" y2="1.75" width="0.127" layer="39"/>
+<wire x1="28.5" y1="8.25" x2="29" y2="1.5" width="0.127" layer="39" curve="-171.573031"/>
+<wire x1="29" y1="8.75" x2="29" y2="8.25" width="0.127" layer="39"/>
+<circle x="28.5" y="4.93" radius="3.25" width="0.127" layer="21"/>
+<circle x="-28.5" y="4.93" radius="3.25" width="0.127" layer="21"/>
+<hole x="28.5" y="4.93" drill="3.6"/>
+<hole x="-28.5" y="4.93" drill="3.6"/>
+<text x="0" y="0" size="1.27" layer="25" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-3.81" size="1.27" layer="27" align="bottom-center">THIS SIDE MUST BE OVER THE EDGE OF THE PCB</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="MPPT-10-01-01-L-RA-SD" urn="urn:adsk.eagle:package:25115828/2" type="model">
+<packageinstances>
+<packageinstance name="MPPT-10-01-01-L-RA-SD"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="CONN_10">
+<description>&lt;h3&gt; 10 Pin Connection&lt;/h3&gt;</description>
+<wire x1="3.81" y1="-15.24" x2="-2.54" y2="-15.24" width="0.4064" layer="94"/>
+<wire x1="1.27" y1="-7.62" x2="2.54" y2="-7.62" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="-10.16" x2="2.54" y2="-10.16" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="-12.7" x2="2.54" y2="-12.7" width="0.6096" layer="94"/>
+<wire x1="-2.54" y1="12.7" x2="-2.54" y2="-15.24" width="0.4064" layer="94"/>
+<wire x1="3.81" y1="-15.24" x2="3.81" y2="12.7" width="0.4064" layer="94"/>
+<wire x1="-2.54" y1="12.7" x2="3.81" y2="12.7" width="0.4064" layer="94"/>
+<wire x1="1.27" y1="-2.54" x2="2.54" y2="-2.54" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="-5.08" x2="2.54" y2="-5.08" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="0" x2="2.54" y2="0" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="2.54" x2="2.54" y2="2.54" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="5.08" x2="2.54" y2="5.08" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="7.62" x2="2.54" y2="7.62" width="0.6096" layer="94"/>
+<wire x1="1.27" y1="10.16" x2="2.54" y2="10.16" width="0.6096" layer="94"/>
+<text x="-2.54" y="13.208" size="1.778" layer="95" font="vector">&gt;NAME</text>
+<pin name="1" x="7.62" y="-12.7" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="2" x="7.62" y="-10.16" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="3" x="7.62" y="-7.62" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="4" x="7.62" y="-5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="5" x="7.62" y="-2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="6" x="7.62" y="0" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="7" x="7.62" y="2.54" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="8" x="7.62" y="5.08" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="9" x="7.62" y="7.62" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="10" x="7.62" y="10.16" visible="pad" length="middle" direction="pas" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="MPPT-10-01-01-L-RA-SD" prefix="J" uservalue="yes">
+<description>Samtec MPPT Connector
+Right Angle
+Vertically mating
+Non-gendered
+https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
+<gates>
+<gate name="G$1" symbol="CONN_10" x="0" y="2.54"/>
+</gates>
+<devices>
+<device name="" package="MPPT-10-01-01-L-RA-SD">
+<connects>
+<connect gate="G$1" pin="1" pad="1@1 1@2 1@3 1@4 1@5 1@6"/>
+<connect gate="G$1" pin="10" pad="10@1 10@2 10@3 10@4 10@5 10@6"/>
+<connect gate="G$1" pin="2" pad="2@1 2@2 2@3 2@4 2@5 2@6"/>
+<connect gate="G$1" pin="3" pad="3@1 3@2 3@3 3@4 3@5 3@6"/>
+<connect gate="G$1" pin="4" pad="4@1 4@2 4@3 4@4 4@5 4@6"/>
+<connect gate="G$1" pin="5" pad="5@1 5@2 5@3 5@4 5@5 5@6"/>
+<connect gate="G$1" pin="6" pad="6@1 6@2 6@3 6@4 6@5 6@6"/>
+<connect gate="G$1" pin="7" pad="7@1 7@2 7@3 7@4 7@5 7@6"/>
+<connect gate="G$1" pin="8" pad="8@1 8@2 8@3 8@4 8@5 8@6"/>
+<connect gate="G$1" pin="9" pad="9@1 9@2 9@3 9@4 9@5 9@6"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25115828/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="CONN, Phoenix Contact PTSM 8 pin">
+<packages>
+<package name="PXC-8-RA-1778683" urn="urn:adsk.eagle:footprint:25224877/1">
+<wire x1="0" y1="0" x2="0" y2="7.5" width="0.127" layer="21"/>
+<wire x1="0" y1="7.5" x2="21.7" y2="7.5" width="0.127" layer="21"/>
+<wire x1="0" y1="0" x2="21.7" y2="0" width="0.127" layer="21"/>
+<wire x1="21.7" y1="0" x2="21.7" y2="7.5" width="0.127" layer="21"/>
+<wire x1="-0.2" y1="8.2" x2="-0.2" y2="-0.2" width="0.127" layer="39"/>
+<wire x1="-0.2" y1="-0.2" x2="22" y2="-0.2" width="0.127" layer="39"/>
+<wire x1="22" y1="-0.2" x2="22" y2="8.2" width="0.127" layer="39"/>
+<wire x1="22" y1="8.2" x2="-0.2" y2="8.2" width="0.127" layer="39"/>
+<pad name="1" x="2.1" y="7.2" drill="1" diameter="1.7"/>
+<pad name="2" x="4.6" y="7.2" drill="1" diameter="1.7"/>
+<pad name="3" x="7.1" y="7.2" drill="1" diameter="1.7"/>
+<pad name="4" x="9.6" y="7.2" drill="1" diameter="1.7"/>
+<pad name="5" x="12.1" y="7.2" drill="1" diameter="1.7"/>
+<pad name="6" x="14.6" y="7.2" drill="1" diameter="1.7"/>
+<pad name="7" x="17.1" y="7.2" drill="1" diameter="1.7"/>
+<pad name="8" x="19.6" y="7.2" drill="1" diameter="1.7"/>
+</package>
+</packages>
+<packages3d>
+<package3d name="PXC-8-RA-1778683" urn="urn:adsk.eagle:package:25224885/2" type="model">
+<packageinstances>
+<packageinstance name="PXC-8-RA-1778683"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="CONN_08">
+<wire x1="0" y1="7.62" x2="2.54" y2="7.62" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="7.62" x2="5.08" y2="7.62" width="0.1524" layer="94"/>
+<wire x1="0" y1="5.08" x2="2.54" y2="5.08" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="5.08" x2="5.08" y2="5.08" width="0.1524" layer="94"/>
+<wire x1="0" y1="2.54" x2="2.54" y2="2.54" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="2.54" x2="5.08" y2="2.54" width="0.1524" layer="94"/>
+<wire x1="0" y1="0" x2="2.54" y2="0" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="0" x2="5.08" y2="0" width="0.1524" layer="94"/>
+<wire x1="0" y1="-2.54" x2="2.54" y2="-2.54" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="-2.54" x2="5.08" y2="-2.54" width="0.1524" layer="94"/>
+<wire x1="0" y1="-5.08" x2="2.54" y2="-5.08" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="-5.08" x2="5.08" y2="-5.08" width="0.1524" layer="94"/>
+<wire x1="0" y1="-7.62" x2="2.54" y2="-7.62" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="-7.62" x2="5.08" y2="-7.62" width="0.1524" layer="94"/>
+<wire x1="0" y1="-10.16" x2="2.54" y2="-10.16" width="0.6096" layer="94"/>
+<wire x1="2.54" y1="-10.16" x2="5.08" y2="-10.16" width="0.1524" layer="94"/>
+<wire x1="5.08" y1="10.16" x2="5.08" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-12.7" x2="-2.54" y2="-12.7" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="-12.7" x2="-2.54" y2="10.16" width="0.254" layer="94"/>
+<wire x1="-2.54" y1="10.16" x2="5.08" y2="10.16" width="0.254" layer="94"/>
+<pin name="1" x="7.62" y="7.62" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="2" x="7.62" y="5.08" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="3" x="7.62" y="2.54" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="4" x="7.62" y="0" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="5" x="7.62" y="-2.54" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="6" x="7.62" y="-5.08" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="7" x="7.62" y="-7.62" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="8" x="7.62" y="-10.16" visible="pad" length="short" direction="pas" swaplevel="1" rot="R180"/>
+<text x="-2.54" y="10.16" size="1.778" layer="95">&gt;NAME</text>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="PXC-8-RA-1778683" prefix="J">
+<gates>
+<gate name="G$1" symbol="CONN_08" x="0" y="7.62"/>
+</gates>
+<devices>
+<device name="" package="PXC-8-RA-1778683">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:25224885/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
+<library name="CONN, Phoenix Contact PTSM-04-V-1778573">
+<packages>
+<package name="PXC-PTSM-04-RA-1778641" urn="urn:adsk.eagle:footprint:33723677/1">
+<pad name="1" x="0" y="0" drill="1.1" diameter="1.8"/>
+<pad name="2" x="2.5" y="0" drill="1.1" diameter="1.8"/>
+<pad name="3" x="5" y="0" drill="1.1" diameter="1.8"/>
+<pad name="4" x="7.5" y="0" drill="1.1" diameter="1.8"/>
+<wire x1="-2.1" y1="0" x2="-2.1" y2="-7.5" width="0.127" layer="21"/>
+<wire x1="-2.1" y1="-7.5" x2="9.6" y2="-7.5" width="0.127" layer="21"/>
+<wire x1="9.6" y1="-7.5" x2="9.6" y2="1" width="0.127" layer="21"/>
+<wire x1="9.6" y1="1" x2="-2.1" y2="1" width="0.127" layer="21"/>
+<wire x1="-2.1" y1="1" x2="-2.1" y2="0" width="0.127" layer="21"/>
+<wire x1="-2.2" y1="1.1" x2="9.7" y2="1.1" width="0.127" layer="39"/>
+<wire x1="9.7" y1="1.1" x2="9.7" y2="-7.6" width="0.127" layer="39"/>
+<wire x1="9.7" y1="-7.6" x2="-2.2" y2="-7.6" width="0.127" layer="39"/>
+<wire x1="-2.2" y1="-7.6" x2="-2.2" y2="1.1" width="0.127" layer="39"/>
+<text x="0" y="-5" size="1.27" layer="25">&gt;NAME</text>
+</package>
+</packages>
+<packages3d>
+<package3d name="PXC-PTSM-04-RA-1778641" urn="urn:adsk.eagle:package:33723680/2" type="model">
+<packageinstances>
+<packageinstance name="PXC-PTSM-04-RA-1778641"/>
+</packageinstances>
+</package3d>
+</packages3d>
+<symbols>
+<symbol name="CONN_04">
+<description>&lt;h3&gt;4 Pin Connection&lt;/h3&gt;</description>
+<wire x1="1.27" y1="-5.08" x2="-5.08" y2="-5.08" width="0.4064" layer="94"/>
+<wire x1="-1.27" y1="2.54" x2="0" y2="2.54" width="0.6096" layer="94"/>
+<wire x1="-1.27" y1="0" x2="0" y2="0" width="0.6096" layer="94"/>
+<wire x1="-1.27" y1="-2.54" x2="0" y2="-2.54" width="0.6096" layer="94"/>
+<wire x1="-5.08" y1="7.62" x2="-5.08" y2="-5.08" width="0.4064" layer="94"/>
+<wire x1="1.27" y1="-5.08" x2="1.27" y2="7.62" width="0.4064" layer="94"/>
+<wire x1="-5.08" y1="7.62" x2="1.27" y2="7.62" width="0.4064" layer="94"/>
+<wire x1="-1.27" y1="5.08" x2="0" y2="5.08" width="0.6096" layer="94"/>
+<text x="-5.08" y="-7.366" size="1.778" layer="96" font="vector">&gt;VALUE</text>
+<text x="-5.08" y="8.128" size="1.778" layer="95" font="vector">&gt;NAME</text>
+<pin name="1" x="5.08" y="-2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="2" x="5.08" y="0" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="3" x="5.08" y="2.54" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+<pin name="4" x="5.08" y="5.08" visible="pad" length="middle" direction="pas" swaplevel="1" rot="R180"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="PXC-PTSM-04-RA-1778641" prefix="J">
+<gates>
+<gate name="G$1" symbol="CONN_04" x="2.54" y="0"/>
+</gates>
+<devices>
+<device name="" package="PXC-PTSM-04-RA-1778641">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:33723680/2"/>
+</package3dinstances>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -2583,20 +2660,20 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 <part name="FRAME1" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-A4L" device=""/>
 <part name="FRAME2" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-A4L" device=""/>
 <part name="MUX" library="BackplaneMUX" deviceset="TI-SN74LV4052A" device=""/>
-<part name="J2" library="Phoenix Contact PTSM-04-V-1778573" deviceset="PXC-PTSM-04-RA-1778641" device=""/>
-<part name="J3" library="Phoenix Contact PTSM 8 pin" deviceset="PXC-8-RA-1778683" device="" package3d_urn="urn:adsk.eagle:package:25224885/2"/>
+<part name="J2" library="CONN, Phoenix Contact PTSM-04-V-1778573" deviceset="PXC-PTSM-04-RA-1778641" device="" package3d_urn="urn:adsk.eagle:package:33723680/2"/>
+<part name="J3" library="CONN, Phoenix Contact PTSM 8 pin" deviceset="PXC-8-RA-1778683" device="" package3d_urn="urn:adsk.eagle:package:25224885/2"/>
 <part name="R4" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="26.7KOHM" device="0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="22k"/>
 <part name="R1" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="10k"/>
 <part name="R5" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="1KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="4.7k"/>
-<part name="DIST_TO_BACKPLANE" library="Samtec MPPT Hermaphoditic 10 pos - MPPT-10-01-01-L-RA-SD" deviceset="MPPT-10-01-01-L-RA-SD" device="" package3d_urn="urn:adsk.eagle:package:25115828/2"/>
+<part name="DIST_TO_BACKPLANE" library="CONN, Samtec MPPT Hermaphoditic 10 pos - MPPT-10-01-01-L-RA-SD" deviceset="MPPT-10-01-01-L-RA-SD" device="" package3d_urn="urn:adsk.eagle:package:25115828/2"/>
 <part name="H1" library="Mounting Holes" deviceset="6-32-HOLE" device="" package3d_urn="urn:adsk.eagle:package:24384748/2"/>
 <part name="H2" library="Mounting Holes" deviceset="6-32-HOLE" device="" package3d_urn="urn:adsk.eagle:package:24384748/2"/>
-<part name="U$5" library="Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP"/>
-<part name="U$6" library="Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP"/>
-<part name="U$7" library="Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP"/>
-<part name="U$1" library="BLHeli_32 45A" deviceset="BACKPLANE_CONNECTORS" device="BKP"/>
-<part name="U$2" library="BLHeli_32 45A" deviceset="BACKPLANE_CONNECTORS" device="BKP"/>
-<part name="U$3" library="BLHeli_32 45A" deviceset="BACKPLANE_CONNECTORS" device="BKP"/>
+<part name="U$5" library="CONN, Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP" package3d_urn="urn:adsk.eagle:package:33723362/2" value="BACKPLANE_ESC_ADAPTER_PWRBKP"/>
+<part name="U$6" library="CONN, Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP" package3d_urn="urn:adsk.eagle:package:33723362/2" value="BACKPLANE_ESC_ADAPTER_PWRBKP"/>
+<part name="U$7" library="CONN, Backplane_ESC_adapter" deviceset="BACKPLANE_ESC_ADAPTER_PWR" device="BKP" package3d_urn="urn:adsk.eagle:package:33723362/2" value="BACKPLANE_ESC_ADAPTER_PWRBKP"/>
+<part name="U$1" library="Conn, Backplane-ESC-Controller" deviceset="BACKPLANE_CONNECTORS" device="BKP" package3d_urn="urn:adsk.eagle:package:33721620/2"/>
+<part name="U$2" library="Conn, Backplane-ESC-Controller" deviceset="BACKPLANE_CONNECTORS" device="BKP" package3d_urn="urn:adsk.eagle:package:33721620/2"/>
+<part name="U$3" library="Conn, Backplane-ESC-Controller" deviceset="BACKPLANE_CONNECTORS" device="BKP" package3d_urn="urn:adsk.eagle:package:33721620/2"/>
 <part name="R7" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="68.1KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="60"/>
 <part name="R8" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="68.1KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="60"/>
 <part name="C4" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="10NF" device="-0603-50V-10%" package3d_urn="urn:adsk.eagle:package:37414/1" value=".1uF"/>
@@ -2606,10 +2683,10 @@ Source: &lt;a href="http://www.nichicon.co.jp/english/products/pdfs/e-ucm.pdf"&g
 <part name="D4" library="SparkFun-DiscreteSemi" library_urn="urn:adsk.eagle:library:514" deviceset="DIODE-SCHOTTKY" device="-PMEG4005EJ" package3d_urn="urn:adsk.eagle:package:38441/1" value="0.5A/40V/420mV"/>
 <part name="U$8" library="OTHER, Push button - FSM2JMTR" deviceset="DISCRETECOMPONENTS_SWITCH" device="" package3d_urn="urn:adsk.eagle:package:24384574/2"/>
 <part name="R9" library="SparkFun-Resistors" library_urn="urn:adsk.eagle:library:532" deviceset="10KOHM" device="-0603-1/10W-1%" package3d_urn="urn:adsk.eagle:package:39650/1" value="10k"/>
-<part name="U$4" library="CONN, Distribution-Backplane" deviceset="BACKPLANE-DISTRIBUTION" device=""/>
-<part name="J8" library="Phoenix Contact PTSM 8 pin" deviceset="PXC-8-RA-1778683" device="" package3d_urn="urn:adsk.eagle:package:25224885/2"/>
-<part name="U$9" library="PI-SHIELD, Solenoid-Backplane" deviceset="7X_CONN" device=""/>
-<part name="U$10" library="CONN, DataConversion-Backplane Connector- SAMTEC CLT-107-01-F-D" deviceset="BACKPLANE-&gt;DATACONV" device=""/>
+<part name="U$4" library="CONN, Distribution-Backplane" deviceset="BACKPLANE-DISTRIBUTION" device="" package3d_urn="urn:adsk.eagle:package:32878650/2"/>
+<part name="J8" library="CONN, Phoenix Contact PTSM 8 pin" deviceset="PXC-8-RA-1778683" device="" package3d_urn="urn:adsk.eagle:package:25224885/2"/>
+<part name="U$9" library="PI-SHIELD, Solenoid-Backplane" deviceset="7X_CONN" device="" package3d_urn="urn:adsk.eagle:package:33723615/2"/>
+<part name="U$10" library="CONN, DataConversion-Backplane Connector- SAMTEC CLT-107-01-F-D" deviceset="BACKPLANE-&gt;DATACONV" device="" package3d_urn="urn:adsk.eagle:package:33723582/2"/>
 <part name="C1" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C2" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C3" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
