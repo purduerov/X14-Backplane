@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.6.2">
+<eagle version="9.5.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -2613,7 +2613,6 @@ https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
 <part name="C3" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C5" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="C6" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
-<part name="C7" library="CAP, aluminin-capacitor-brick-UCM1H331MNL1GS" deviceset="UCM1H331MNL1GS" device="" package3d_urn="urn:adsk.eagle:package:24202090/2" value="330uF"/>
 <part name="U$12" library="SQT-106-01-F-D" deviceset="BACKPLANE_ESC" device=""/>
 <part name="U$13" library="SQT-106-01-F-D" deviceset="BACKPLANE_ESC" device=""/>
 <part name="U$11" library="SQT-106-01-F-D" deviceset="BACKPLANE_ESC" device=""/>
@@ -2742,10 +2741,6 @@ https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
 <instance part="C6" gate="G$1" x="187.96" y="-115.57" smashed="yes">
 <attribute name="NAME" x="189.23" y="-114.3" size="1.778" layer="95" align="center-left"/>
 <attribute name="VALUE" x="189.23" y="-119.38" size="1.778" layer="95" align="center-left"/>
-</instance>
-<instance part="C7" gate="G$1" x="200.66" y="-115.57" smashed="yes">
-<attribute name="NAME" x="201.93" y="-114.3" size="1.778" layer="95" align="center-left"/>
-<attribute name="VALUE" x="201.93" y="-119.38" size="1.778" layer="95" align="center-left"/>
 </instance>
 <instance part="U$12" gate="G$1" x="93.98" y="140.97" smashed="yes">
 <attribute name="NAME" x="85.86" y="151.13" size="1.778" layer="95"/>
@@ -3019,11 +3014,7 @@ https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
 <wire x1="187.96" y1="-110.49" x2="187.96" y2="-113.03" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="-110.49" x2="195.58" y2="-110.49" width="0.1524" layer="91"/>
 <junction x="187.96" y="-110.49"/>
-<pinref part="C7" gate="G$1" pin="+"/>
-<wire x1="195.58" y1="-110.49" x2="200.66" y2="-110.49" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="-110.49" x2="200.66" y2="-113.03" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="-110.49" x2="195.58" y2="-106.68" width="0.1524" layer="91"/>
-<junction x="195.58" y="-110.49"/>
 <label x="195.58" y="-106.68" size="1.778" layer="95"/>
 </segment>
 </net>
@@ -3223,11 +3214,7 @@ https://www.samtec.com/products/mppt-10-01-01-l-ra-sd</description>
 <wire x1="187.96" y1="-121.92" x2="187.96" y2="-120.015" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="-121.92" x2="195.58" y2="-121.92" width="0.1524" layer="91"/>
 <junction x="187.96" y="-121.92"/>
-<pinref part="C7" gate="G$1" pin="-"/>
-<wire x1="195.58" y1="-121.92" x2="200.66" y2="-121.92" width="0.1524" layer="91"/>
-<wire x1="200.66" y1="-121.92" x2="200.66" y2="-120.015" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="-121.92" x2="195.58" y2="-125.73" width="0.1524" layer="91"/>
-<junction x="195.58" y="-121.92"/>
 <label x="195.58" y="-125.73" size="1.778" layer="95"/>
 </segment>
 </net>
